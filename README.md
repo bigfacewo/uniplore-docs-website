@@ -53,11 +53,18 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 For example:
 ```bash
- npm run write-translations -- --locale zh-cn
+ $ npm run write-translations -- --locale zh-cn
  ```
  or
  ```bash
  npm run write-translations -- --locale en
+ ```
+```bash
+ $ yarn write-translations -- --locale zh-cn
+ ```
+ or
+ ```bash
+ yarn write-translations -- --locale en
  ```
 
  ### i18n for react code
