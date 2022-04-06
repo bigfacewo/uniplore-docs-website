@@ -1,69 +1,69 @@
-# Uniplore Doc Website
+# Uniplore文档站点
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+本站点使用 [Docusaurus 2](https://docusaurus.io/) 构建, 一个前卫的静态网页生成器。
 
-### Installation
+### 安装
 
 ```
 $ yarn install
 ```
 
-### Local Development
+### 本地开发
 
 ```
 $ yarn start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+此命令可以启动一个本地开发服务和打开一个浏览器窗口。绝大部分变更会实时渲染而无需再次启动服务。
 
-### Run Locale Mode
+### 指定语言环境运行方式
 
 ```
 $ yarn start -- --locale zh-cn 
 ```
 
-### Build
+### 编译
 
 ```
 $ yarn build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+此命令生成静态内容到`build`文件夹且可以使用任何静态内容托管服务。
 
-### Deployment
+### 部署
 
-Using SSH:
+使用SSH:
 
 ```
 $ USE_SSH=true yarn deploy
 ```
 
-Not using SSH:
+不使用SSH:
 
 ```
 $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+如果您使用Github页面进行托管，此命令是一种构建网站并推送到“gh-pages”分支的方便方法。
 
-### Initialize the i18n folder
+### 初始化i18n(多语言)文件夹
 
-[i18n folder doc](https://docusaurus.io/docs/i18n/git)
+[i18n(多语言)文件夹文档](https://docusaurus.io/docs/i18n/git)
 
-For example:
+例如:
 ```bash
  $ yarn write-translations -- --locale zh-cn
  ```
- or
+ 或
  ```bash
  yarn write-translations -- --locale en
  ```
 
- ### i18n for react code
+ ### react代码i18n(多语言环境)
 
-Simple use
+简单使用
 
-Before
+使用翻译之前
 ```react
 import React from 'react';
 import Layout from '@theme/Layout';
@@ -85,7 +85,7 @@ export default function Home() {
 }
 ```
 
-After
+使用翻译之后
 ```react
 import React from 'react';
 import Layout from '@theme/Layout';
@@ -127,17 +127,17 @@ export default function Home() {
 }
 ```
 
-More complex use [React-intl](https://www.jianshu.com/p/3b404d131634) for more advanced use-cases.
+more complex use [React-intl](https://www.jianshu.com/p/3b404d131634) for more advanced use-cases.
 
-### mutiple version docs
+### 多版本文档
 
-> create version 1.1.0 with this command line
+> 使用此命令创建1.1.0版本
 
 ```bash
 $ yarn docusaurus docs:version 1.1.0
 ```
 
-### More Docs
+### 更多文档
 
-更多关于docusaurus的文档，[点击](https://docusaurus.io/docs)
+More docs about docusaurus, [Click Me](https://docusaurus.io/docs)
 

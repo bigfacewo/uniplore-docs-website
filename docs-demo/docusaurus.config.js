@@ -85,11 +85,11 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          {
+            href: 'https://github.com/facebook/docusaurus',
+            label: 'Github',
+            position: 'right',
+          },
           {
             type: 'localeDropdown',
             position: 'right',
@@ -98,7 +98,8 @@ const config = {
       },
       // 页脚导航配置
       footer: {
-        style: 'dark',
+        style: 'light',
+        // style: 'dark',
         links: [
           {
             title: 'Docs',
@@ -144,7 +145,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Uniplore, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
