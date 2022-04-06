@@ -71,6 +71,15 @@ For example:
 
 [React-intl](https://www.jianshu.com/p/3b404d131634) for more advanced use-cases.
 
+### muti version docs
+
+> create version 1.1.0 with command line
+```bash
+$ yarn docusaurus docs:version 1.1.0
+OR
+$ npm run docusaurus docs:version 1.1.0
+```
+
 ### More Docs
 
 If you need more docs about docusaurus, [Click Me](https://docusaurus.io/docs)

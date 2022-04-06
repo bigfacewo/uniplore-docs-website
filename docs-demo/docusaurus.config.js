@@ -40,6 +40,13 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // lastVersion: 'current',
+          // versions: {
+          //   current: {
+          //     label: '1.2.0',
+          //     path: '1.2.0'
+          //   }
+          // }
         },
         blog: {
           showReadingTime: true,
@@ -66,17 +73,23 @@ const config = {
         },
         items: [
           {
+            type: 'docsVersionDropdown',
+            position: 'right',
+            dropdownItemsAfter: [{to: '/versions', label: 'All versions'}],
+            dropdownActiveClassDisabled: false,
+          },
+          {
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/facebook/docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
           {
             type: 'localeDropdown',
             position: 'right',

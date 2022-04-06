@@ -4,12 +4,6 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-> this is a test
-
-> dsadsadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-> 111111111111111111111111
-
 Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started

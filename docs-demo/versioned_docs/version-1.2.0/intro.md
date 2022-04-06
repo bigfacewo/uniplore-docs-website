@@ -6,9 +6,7 @@ sidebar_position: 1
 
 > this is a test
 
-> dsadsadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-> 111111111111111111111111
+> BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
