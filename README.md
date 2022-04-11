@@ -137,6 +137,9 @@ More complex use [React-intl](https://www.jianshu.com/p/3b404d131634) for more a
 $ yarn docusaurus docs:version 1.1.0
 ```
 
+### build error
+If page url(route) is not exists, build error.
+
 ### More Docs
 
 更多关于docusaurus的文档，[点击](https://docusaurus.io/docs)

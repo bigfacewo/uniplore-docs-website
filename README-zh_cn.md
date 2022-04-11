@@ -137,6 +137,9 @@ more complex use [React-intl](https://www.jianshu.com/p/3b404d131634) for more a
 $ yarn docusaurus docs:version 1.1.0
 ```
 
+### 编译错误
+如果页面路径(路由)不存在时，编译错误。
+
 ### 更多文档
 
 More docs about docusaurus, [Click Me](https://docusaurus.io/docs)
