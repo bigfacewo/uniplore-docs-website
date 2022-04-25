@@ -15,14 +15,13 @@
 ![param](/img/aistudio/visualize/sieve-diagram/param.png)
 
 点击**“查看结果”**按钮，查看数据集详情：  
-![visualization-1](/img/aistudio/visualize/sieve-diagram/visualization-1.png)
+![visualization](/img/aistudio/visualize/sieve-diagram/visualization.png)
 
 在上图中，每个矩形的面积与期望的频率成正比，用颜色表示与独立性的偏差是正值（蓝色）还是负值（红色），其中颜色的深浅表征频率和期望频率之间的差异程度（与标准 Pearson 残差成正比）。
 
 #### 参数选项
 <table>
   <tr>
-    <th></th>
     <th>选项</th>
     <th width="650">说明</th>
     <th>样例值</th>
@@ -48,4 +47,4 @@
 ![workflow](/img/aistudio/visualize/sieve-diagram/workflow.png)
 
 案例中加载“iris”数据集，运行**“筛图（Sieve Diagram）”**后，案例中控件的配置以及执行结果如下图所示。
-![visualization-2](/img/aistudio/visualize/sieve-diagram/visualization-2.png)
+![workflow-result](/img/aistudio/visualize/sieve-diagram/workflow-result.png)

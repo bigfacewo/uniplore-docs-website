@@ -15,12 +15,11 @@
 ![param](/img/aistudio/visualize/silhouette-plot/param.png)
 
 点击**“查看结果”**按钮，查看数据集详情：  
-![visualization-1](/img/aistudio/visualize/silhouette-plot/visualization-1.png)
+![visualization](/img/aistudio/visualize/silhouette-plot/visualization.png)
 
 #### 参数选项
 <table>
   <tr>
-    <th></th>
     <th>选项</th>
     <th width="650">说明</th>
     <th>样例值</th>
@@ -54,4 +53,4 @@
 ![workflow](/img/aistudio/visualize/silhouette-plot/workflow.png)
 
 案例中加载“iris”数据集，案例中控件的配置以及执行结果如下图所示。
-![visualization-2](/img/aistudio/visualize/silhouette-plot/visualization-2.png)
+![workflow-result](/img/aistudio/visualize/silhouette-plot/workflow-result.png)

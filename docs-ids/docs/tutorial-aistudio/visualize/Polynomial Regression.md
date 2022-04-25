@@ -23,7 +23,6 @@
 #### 参数选项
 <table>
   <tr>
-    <th></th>
     <th>选项</th>
     <th width="650">说明</th>
     <th>样例值</th>

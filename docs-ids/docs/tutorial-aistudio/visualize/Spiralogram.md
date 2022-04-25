@@ -15,12 +15,11 @@
 ![param](/img/aistudio/visualize/spiralogram/param.png)
 
 点击**“查看结果”**按钮，查看数据集详情：  
-![visualization-1](/img/aistudio/visualize/spiralogram/visualization-1.png)
+![visualization](/img/aistudio/visualize/spiralogram/visualization.png)
 
 #### 参数选项
 <table>
   <tr>
-    <th></th>
     <th>选项</th>
     <th width="650">说明</th>
     <th>样例值</th>
@@ -62,4 +61,4 @@
 ![workflow](/img/aistudio/visualize/spiralogram/workflow.png)
 
 案例中加载“airpassengers”数据集，案例中控件的配置以及执行结果如下图所示。
-![visualization-2](/img/aistudio/visualize/spiralogram/visualization-2.png)
+![workflow-result](/img/aistudio/visualize/spiralogram/workflow-result.png)

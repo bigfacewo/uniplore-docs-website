@@ -14,12 +14,11 @@
 ![param](/img/aistudio/visualize/periodogram/param.png)
 
 点击**“查看结果”**按钮，查看数据集详情：  
-![visualization-1](/img/aistudio/visualize/periodogram/visualization-1.png)
+![visualization](/img/aistudio/visualize/periodogram/visualization.png)
 
 #### 参数选项
 <table>
   <tr>
-    <th></th>
     <th>选项</th>
     <th width="650">说明</th>
     <th>样例值</th>
@@ -38,4 +37,4 @@
 ![workflow](/img/aistudio/visualize/periodogram/workflow.png)
 
 案例中加载“airpassenger”数据集，运行**“转换时间序列（As Timeseries）”**控件中，排序方案选择排序属性，设置排序属性为【Month】，案例中控件的配置以及执行结果如下图所示:
-![visualization-2](/img/aistudio/visualize/periodogram/visualization-2.png)
+![workflow-result](/img/aistudio/visualize/periodogram/workflow-result.png)
