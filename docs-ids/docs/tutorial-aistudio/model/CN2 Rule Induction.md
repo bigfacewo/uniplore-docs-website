@@ -14,7 +14,7 @@
 
 
 ### 页面介绍
-点击**“CN2 Rule Induction”**控件查看参数配置页面，如下图所示：  
+点击**“CN2规则归纳（CN2 Rule Induction）”**控件查看参数配置页面，如下图所示：  
 ![param](/img/aistudio/model/cn2-rule-induction/param.png)
 
 #### 参数选项
@@ -71,7 +71,7 @@
 </table>
 
 ### 使用案例
-在下图所示的案例中，使用**“加载文件”（File）**控件加载数据集，连接**“CN2 Rule Induction”**控件进行聚类，之后把**“加载文件”（File）**控件以及**“CN2 Rule Induction”**控件与**“Predictions”**控件连接起来查看基于已经构建的**“CN2 Rule Induction”**模型对输入数据进行预测的结果。  
+在下图所示的案例中，使用**“加载文件”（File）**控件加载数据集，连接**“CN2规则归纳（CN2 Rule Induction）”**控件进行聚类，之后把**“加载文件”（File）**控件以及**“CN2规则归纳（CN2 Rule Induction）”**控件与**“预测（Predictions）”**控件连接起来查看基于已经构建的**“CN2规则归纳（CN2 Rule Induction）”**模型对输入数据进行预测的结果。  
 ![workflow](/img/aistudio/model/cn2-rule-induction/workflow.png)
 
 案例中加载“iris”数据集，其余参数使用默认值。案例中控件的配置以及执行结果如下图所示。  
