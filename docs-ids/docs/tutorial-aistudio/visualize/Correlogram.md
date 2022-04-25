@@ -12,10 +12,10 @@
 
 ### 页面介绍
 点击**“相关图（Correlogram）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/model/correlogram/param.png)
+![param](/img/aistudio/visualize/correlogram/param.png)
 
 点击**“查看结果”**按钮，查看数据集详情：  
-![visualization-1](/img/aistudio/model/correlogram/visualization-1.png)
+![visualization-1](/img/aistudio/visualize/correlogram/visualization-1.png)
 
 #### 参数选项
 <table>
@@ -50,7 +50,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件（File）”**控件加载数据集，接着使用**“相关图（Correlogram）”**控件绘制自相关系数。  
-![workflow](/img/aistudio/model/correlogram/workflow.png)
+![workflow](/img/aistudio/visualize/correlogram/workflow.png)
 
 案例中加载“airpassenger”数据集，案例中控件的配置以及执行结果如下图所示。  
-![visualization-2](/img/aistudio/model/correlogram/visualization-2.png)
+![visualization-2](/img/aistudio/visualize/correlogram/visualization-2.png)

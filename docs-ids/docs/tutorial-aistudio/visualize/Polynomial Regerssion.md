@@ -15,10 +15,10 @@
 
 ### 页面介绍
 点击**“多项式回归（Polynomial Regression）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/model/polynomial-regression/param.png)
+![param](/img/aistudio/visualize/polynomial-regression/param.png)
 
 点击**“多项式回归”**按钮，查看数据集详情：  
-![interaction](/img/aistudio/model/polynomial-regression/interaction.png)
+![interaction](/img/aistudio/visualize/polynomial-regression/interaction.png)
 
 #### 参数选项
 <table>
@@ -76,7 +76,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件（File）”**控件加载数据集，再通过**“多项式回归（Polynomial Regression）”**控件进行相关操作，最后连接**“查看数据（Data Table）”**查看回归系数。  
-![workflow](/img/aistudio/model/polynomial-regression/workflow.png)
+![workflow](/img/aistudio/visualize/polynomial-regression/workflow.png)
 
 案例中加载“iris”数据集，运行**“多项式回归（Polynomial Regression）”**后，设置多项式扩展值为3，其余使用默认参数。案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/model/polynomial-regression/workflow-result.png)
+![workflow-result](/img/aistudio/visualize/polynomial-regression/workflow-result.png)
