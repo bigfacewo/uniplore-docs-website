@@ -41,8 +41,8 @@
 </table>
 
 ### 使用案例
-在下图所示的案例中，使用**“加载文件（File）”**控件加载数据集，连接**“ARIMA Model”**控件构建时序模型，接着使用**“线形图表（Line Chart）”**控件绘制包含预测值的线性图表。
+在下图所示的案例中，使用**“加载文件（File）”**控件加载数据集，连接**“ARIMA Model”**控件构建时序模型，接着使用**“线形图表（Line Chart）”**控件绘制包含预测值的线性图表。  
 ![workflow](/img/aistudio/visualize/line-chart/workflow.png)
 
-案例中加载“airpassenger”数据集，运行**“ARIMA Model”**控件中，设置预测期数为5，案例中控件的配置以及执行结果如下图所示。
-![workflow-result](/img/aistudio/visualize/line-chart/workflow-result.png)
+案例中加载“airpassenger”数据集，运行**“ARIMA Model”**控件中，设置预测期数为5，案例中控件的配置以及执行结果如下图所示。  
+[![](/img/aistudio/visualize/line-chart/workflow-result.png)](/img/aistudio/visualize/line-chart/workflow-result.png)

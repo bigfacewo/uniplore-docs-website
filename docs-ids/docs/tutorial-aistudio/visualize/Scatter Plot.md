@@ -94,4 +94,4 @@
 ![workflow](/img/aistudio/visualize/scatter-plot/workflow.png)
 
 案例中加载“iris”数据集，运行**“散点图（Scatter Plot）”**后，颜色属性选择【iris】，勾选显示网格线选项。案例中控件的配置以及执行结果如下图所示。
-![workflow-result](/img/aistudio/visualize/scatter-plot/workflow-result.png)
+[![](/img/aistudio/visualize/scatter-plot/workflow-result.png)](/img/aistudio/visualize/scatter-plot/workflow-result.png)

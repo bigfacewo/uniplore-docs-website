@@ -51,4 +51,4 @@
 ![workflow](/img/aistudio/network/network-clustering/workflow.png)
 
 案例中全部组件使用默认配置，案例中控件的配置以及执行结果如下图所示。
-![workflow-result](/img/aistudio/network/network-clustering/workflow-result.png)
+[![](/img/aistudio/network/network-clustering/workflow-result.png)](/img/aistudio/network/network-clustering/workflow-result.png)

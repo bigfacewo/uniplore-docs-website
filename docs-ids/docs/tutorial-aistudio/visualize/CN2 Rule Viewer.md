@@ -24,4 +24,4 @@
 ![workflow](/img/aistudio/visualize/cn2-rule-viewer/workflow.png)
 
 案例中加载“iris”数据集，**“CN2规则归纳（CN2 Rule Induction）”**控件参数使用默认值。案例中控件的配置以及执行结果如下图所示。  
-![visualization](/img/aistudio/visualize/cn2-rule-viewer/visualization.png)
+[ ![](/img/aistudio/visualize/cn2-rule-viewer/visualization.png) ](/img/aistudio/visualize/cn2-rule-viewer/visualization.png)

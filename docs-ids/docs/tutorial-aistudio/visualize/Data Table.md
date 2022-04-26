@@ -15,8 +15,7 @@
 ![param](/img/aistudio/visualize/data-table/param.png)
 
 点击**“查看结果”**按钮，查看数据集详情：  
-![visualization](/img/aistudio/visualize/data-table/visualization.png)
-
+[![](/img/aistudio/visualize/data-table/visualization.png)](/img/aistudio/visualize/data-table/visualization.png)
 #### 参数选项
 <table>
   <tr>
@@ -46,4 +45,4 @@
 ![workflow](/img/aistudio/visualize/data-table/workflow.png)
 
 案例中加载“iris”数据集，运行**“查看数据（Data Table）”**后，勾选“可视化连续值”以及“根据示例类型标记颜色”。案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/visualize/data-table/workflow-result.png)
+[![](/img/aistudio/visualize/data-table/workflow-result.png)](/img/aistudio/visualize/data-table/workflow-result.png)

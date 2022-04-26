@@ -20,7 +20,7 @@
 <table>
   <tr>
     <th width="120"></th>
-    <th>选项</th>
+    <th width="120">选项</th>
     <th width="650">说明</th>
     <th>样例值</th>
   </tr>

@@ -17,7 +17,7 @@
 ![param](/img/aistudio/text-mining/concordance/param.png)
 
 点击“查看数据”按钮，进行文本搜索：
-![interaction](/img/aistudio/text-mining/concordance/interaction.png)
+[![](/img/aistudio/text-mining/concordance/interaction.png)](/img/aistudio/text-mining/concordance/interaction.png)
 
 #### 参数选项
 <table>
@@ -57,4 +57,4 @@
 ![workflow](/img/aistudio/text-mining/concordance/workflow.png)
 
 案例中加载“andersen”数据集，**“语汇索引（Concordance）”**控件单词数设置为8，查询单词为to。案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/text-mining/concordance/workflow-result.png)
+[![](/img/aistudio/text-mining/concordance/workflow-result.png)](/img/aistudio/text-mining/concordance/workflow-result.png)

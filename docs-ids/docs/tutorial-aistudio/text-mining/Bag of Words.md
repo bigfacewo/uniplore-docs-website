@@ -24,9 +24,9 @@
   <tr>
       <td>词频</td> 
       <td>
-      词频计算方式：
-      &emsp;&emsp;Count：表示文档中一个词出现的次数
-      &emsp;&emsp;Binary：文档中词出现或者不出现
+      词频计算方式：<br/>
+      &emsp;&emsp;Count：表示文档中一个词出现的次数<br/>
+      &emsp;&emsp;Binary：文档中词出现或者不出现<br/>
       &emsp;&emsp;Sublinear：术语频率对数
       </td> 
       <td></td>
@@ -34,8 +34,8 @@
   <tr>
       <td>文档频率</td> 
       <td>
-      有三个选项，分别是 无、IDF、Smooth IDF
-      &emsp;&emsp;IDF：表示逆文档频率
+      有三个选项，分别是 无、IDF、Smooth IDF<br/>
+      &emsp;&emsp;IDF：表示逆文档频率<br/>
       &emsp;&emsp;Smooth IDF：用来添加一个文档频率，防止为零
       </td> 
       <td></td>
@@ -54,4 +54,4 @@
 ![workflow](/img/aistudio/text-mining/bag-of-words/workflow.png)
 
 案例中加载“andersen”数据集，其余使用默认参数，案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/text-mining/bag-of-words/workflow-result.png)
+[![](/img/aistudio/text-mining/bag-of-words/workflow-result.png)](/img/aistudio/text-mining/bag-of-words/workflow-result.png)

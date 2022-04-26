@@ -11,7 +11,7 @@
 
 ### 页面介绍
 点击**“文本预处理（Preprocess Text）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/text-mining/preprocess-text/param.png)
+[![](/img/aistudio/text-mining/preprocess-text/param.png)](/img/aistudio/text-mining/preprocess-text/param.png)
 
 #### 参数选项
 <table>
@@ -89,7 +89,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载语料库（Corpus）”**控件加载文本数据集，使用**“语料库查看器（Corpus Viewer）”**控件查看文本数据，同时连接**“文本预处理（Preprocess Text）”**控件对数据进行文本预处理，之后使用**“语料库查看器（Corpus Viewer）”**控件查看处理后的数据。  
-![workflow](/img/aistudio/text-mining/preprocess-text/workflow.png)
+[![](/img/aistudio/text-mining/preprocess-text/workflow.png)](/img/aistudio/text-mining/preprocess-text/workflow.png)
 
 案例中加载“andersen”数据集，**“文本预处理（Preprocess Text）”**控件添加转换和标准化处理，参数使用默认参数，案例中控件的配置以及执行结果如下图所示。
-![workflow-result](/img/aistudio/text-mining/preprocess-text/workflow-result.png)
+[![](/img/aistudio/text-mining/preprocess-text/workflow-result.png)](/img/aistudio/text-mining/preprocess-text/workflow-result.png)

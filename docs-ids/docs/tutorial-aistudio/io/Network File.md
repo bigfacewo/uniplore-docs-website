@@ -49,4 +49,4 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载网络文件”（Network File）**组件加载数据，同时连接**“数据信息”（Data Info）**以及**“网络查看器”（Network Explorer）**组件查看数据信息以及图信息并进行展示。  
-![workflow](/img/aistudio/io/network-file/workflow.png)
+[![](/img/aistudio/io/network-file/workflow.png)](/img/aistudio/io/network-file/workflow.png)
