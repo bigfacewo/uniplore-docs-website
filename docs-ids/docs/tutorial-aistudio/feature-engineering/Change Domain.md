@@ -15,7 +15,7 @@
 点击**“编辑属性类型”（Change Domain）**控件查看参数配置页面，如下图所示：  
 ![param](/img/aistudio/feature-engineering/change-domain/param.png)
 
-点击**“打开控件配置”**按钮，弹出条件配置页面，添加过滤条件
+点击**“打开控件配置”**按钮，弹出条件配置页面，添加过滤条件：  
 ![interaction](/img/aistudio/feature-engineering/change-domain/interaction.png)
 
 #### 参数选项
