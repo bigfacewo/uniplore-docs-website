@@ -13,9 +13,9 @@
 
 ### 页面介绍
 点击**“编辑属性值”（Edit Domain）**控件查看参数配置页面，如下图所示：  
-![param1](/img/aistudio/preprocess/edit-domain/param1.png)
+[ ![](/img/aistudio/preprocess/edit-domain/param1.png) ](/img/aistudio/preprocess/edit-domain/param1.png)
 
-![param2](/img/aistudio/preprocess/edit-domain/param2.png)
+[ ![](/img/aistudio/preprocess/edit-domain/param2.png) ](/img/aistudio/preprocess/edit-domain/param2.png)
 
 #### 参数选项
 <table>
@@ -42,7 +42,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据集，通过**“查看数据”（Data Table）**控件查看加载数据的信息，同时使用**“编辑属性值”（Edit Domain）**控件对数据集的值域进行修改，之后通过**“查看数据”（Data Table）**控件查看处理后的数据集。
-![workflow](/img/aistudio/preprocess/edit-domain/workflow.png)
+[ ![](/img/aistudio/preprocess/edit-domain/workflow.png) ](/img/aistudio/preprocess/edit-domain/workflow.png)
 
 案例中加载 iris 数据集，修改【iris】属性的值。案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/preprocess/edit-domain/workflow-result.png)
+[ ![](/img/aistudio/preprocess/edit-domain/workflow-result.png ](/img/aistudio/preprocess/edit-domain/workflow-result.png)

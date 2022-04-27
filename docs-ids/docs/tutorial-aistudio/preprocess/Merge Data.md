@@ -14,7 +14,7 @@
 
 ### 页面介绍
 点击**“合并数据”（Merge Data）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/preprocess/merge-data/param.png)
+[ ![](/img/aistudio/preprocess/merge-data/param.png) ](/img/aistudio/preprocess/merge-data/param.png)
 
 #### 参数选项
 <table>
@@ -51,7 +51,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用两个**“加载文件”（File）**控件加载不同的两个数据集，通过**“查看数据”（Data Table）**控件查看加载数据的信息，同时使用**“合并数据”（Merge Data）**控件对两个数据集进行合并，之后通过**“查看数据”（Data Table）**控件查看处理后的数据集。  
-![workflow](/img/aistudio/preprocess/merge-data/workflow.png)
+[ ![](/img/aistudio/preprocess/merge-data/workflow.png) ](/img/aistudio/preprocess/merge-data/workflow.png)
 
 案例中加载 car 以及 wine 数据集，使用“连接表，合并行”的方法合并数据集。案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/preprocess/merge-data/workflow-result.png)
+[ ![](/img/aistudio/preprocess/merge-data/workflow-result.png ](/img/aistudio/preprocess/merge-data/workflow-result.png)

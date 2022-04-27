@@ -13,11 +13,11 @@
 
 ### 页面介绍
 点击**“自动特征工程”（Feature Synthesis）**控件查看参数配置页面，如下图所示：  
-![param1](/img/aistudio/feature-engineering/feature-synthesis/param1.png)
+[ ![](/img/aistudio/feature-engineering/feature-synthesis/param1.png) ](/img/aistudio/feature-engineering/feature-synthesis/param1.png)
 
-![param2](/img/aistudio/feature-engineering/feature-synthesis/param2.png)
+[ ![](/img/aistudio/feature-engineering/feature-synthesis/param2.png) ](/img/aistudio/feature-engineering/feature-synthesis/param2.png)
 
-![param3](/img/aistudio/feature-engineering/feature-synthesis/param3.png)
+[ ![](/img/aistudio/feature-engineering/feature-synthesis/param3.png) ](/img/aistudio/feature-engineering/feature-synthesis/param3.png)
 
 #### 参数选项
 <table>
@@ -79,6 +79,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，通过**“查看数据”（Data Table）**控件查看加载数据的信息，同时使用**“自动特征工程”（Feature Synthesis）**控件进行数据处理，之后通过**“查看数据”（Data Table）**控件查看处理后的数据集。   
-![workflow](/img/aistudio/feature-engineering/feature-synthesis/workflow.png)
+[ ![](/img/aistudio/feature-engineering/feature-synthesis/workflow.png) ](/img/aistudio/feature-engineering/feature-synthesis/workflow.png)
 
-案例中加载 iris 数据集，**“自动特征工程”（Feature Synthesis）**控件设置xxxxxxxx，其余使用默认参数。案例中控件的配置以及执行结果如下图所示。    
+案例中加载 iris 数据集，**“自动特征工程”（Feature Synthesis）**控件中指定ID列名为id，Aggreagtion Primitives选择median，Transformation Primitives选择not_equal_scalar和greater_than_equal_to_scalar，其余使用默认参数。案例中控件的配置以及执行结果如下图所示。  
+[ ![](/img/aistudio/feature-engineering/feature-synthesis/workflow-result.png)   ](/img/aistudio/feature-engineering/feature-synthesis/workflow-result.png)  

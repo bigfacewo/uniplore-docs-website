@@ -17,7 +17,7 @@
 
 ### 页面介绍
 点击**“加载文件”（File）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/io/file/param.png)
+[ ![](/img/aistudio/io/file/param.png) ](/img/aistudio/io/file/param.png)
 
 #### 参数选项
 <table>
@@ -74,7 +74,7 @@
 
 ### 使用案例
 **“加载文件”（File）**控件一般作为一个工作流的开端，加载数据进行相关处理。如下图所示的工作流中 ，使**“加载文件”（File）**控件加载数据，连接**“查看数据”（Data Table）**控件查看数据。  
-![workflow](/img/aistudio/io/file/workflow.png)
+[ ![](/img/aistudio/io/file/workflow.png) ](/img/aistudio/io/file/workflow.png)
 
 案例中加载样例数据中的 iris 示例数据集，案例中控件执行结果如下图所示：  
-![workflow-result](/img/aistudio/io/file/workflow-result.png)
+[ ![](/img/aistudio/io/file/workflow-result.png) ](/img/aistudio/io/file/workflow-result.png)

@@ -12,7 +12,7 @@
 
 ### 页面介绍
 点击**“频繁项集”（Frequent Itemsets）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/associate/frequent-itemsets/param.png)
+[ ![](/img/aistudio/associate/frequent-itemsets/param.png) ](/img/aistudio/associate/frequent-itemsets/param.png)
 
 #### 参数选项
 <table>
@@ -44,7 +44,7 @@
 
 #### 频繁项集表
 设置参数后，点击“查找项集”按钮，即可根据当前指定设置查找满足过条件的项集树。 
-![interaction](/img/aistudio/associate/frequent-itemsets/interaction.png)
+[ ![](/img/aistudio/associate/frequent-itemsets/interaction.png) ](/img/aistudio/associate/frequent-itemsets/interaction.png)
 
 该表包含以下列：
 <table>
@@ -74,7 +74,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“文件加载”（File）**控件加载数据，使用**“查看数据”（Data Table）**控件查看数据集内容，通过**“频繁项集”（Frequent Itemsets）**查找满足条件的项集。  
-![workflow](/img/aistudio/associate/frequent-itemsets/workflow.png)
+[ ![](/img/aistudio/associate/frequent-itemsets/workflow.png) ](/img/aistudio/associate/frequent-itemsets/workflow.png)
 
 案例中加载 titanic 示例数据集，案例中控件执行结果如下图所示：  
-![workflow-result](/img/aistudio/associate/frequent-itemsets/workflow-result.png)
+[ ![](/img/aistudio/associate/frequent-itemsets/workflow-result.png) ](/img/aistudio/associate/frequent-itemsets/workflow-result.png)

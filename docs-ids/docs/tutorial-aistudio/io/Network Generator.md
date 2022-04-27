@@ -12,7 +12,7 @@
 
 ### 页面介绍
 点击**“网络生成器”（Network Generator）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/io/network-generator/param.png)
+[ ![](/img/aistudio/io/network-generator/param.png) ](/img/aistudio/io/network-generator/param.png)
 
 #### 参数选项
 <table>
@@ -38,7 +38,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“网络生成器”（Network Generator）**组件生成网络图，之后连接**“网络查看器”（Network Explorer）**组件查看图信息并进行展示。  
-![workflow](/img/aistudio/io/network-generator/workflow.png)
+[ ![](/img/aistudio/io/network-generator/workflow.png) ](/img/aistudio/io/network-generator/workflow.png)
 
 案例中全部组件使用默认配置。案例中组件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/io/network-generator/workflow-result.png)
+[ ![](/img/aistudio/io/network-generator/workflow-result.png ](/img/aistudio/io/network-generator/workflow-result.png)

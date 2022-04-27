@@ -13,7 +13,7 @@
 
 ### 页面介绍
 点击**“数据混淆”（Randomize）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/preprocess/randomize/param.png)
+[ ![](/img/aistudio/preprocess/randomize/param.png) ](/img/aistudio/preprocess/randomize/param.png)
 
 
 #### 参数选项
@@ -41,7 +41,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，通过**“查看数据”（Data Table）**控件查看加载数据的信息，同时使用**“数据混淆”（Randomize）**控件对数据集进行混洗，之后通过**“查看数据”（Data Table）**控件查看处理后的数据集。   
-![workflow](/img/aistudio/preprocess/randomize/workflow.png)
+[ ![](/img/aistudio/preprocess/randomize/workflow.png) ](/img/aistudio/preprocess/randomize/workflow.png)
 
 案例中加载 iris 数据集，对分类属性进行混洗，混洗数据的比例设为 100%。案例中控件的配置以及执行结果如下图所示。    
-![workflow-result](/img/aistudio/preprocess/randomize/workflow-result.png)
+[ ![](/img/aistudio/preprocess/randomize/workflow-result.png ](/img/aistudio/preprocess/randomize/workflow-result.png)

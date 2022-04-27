@@ -13,10 +13,10 @@
 
 ### 页面介绍
 点击**“离散化”（Discretize）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/feature-engineering/discretize/param.png)
+[ ![](/img/aistudio/feature-engineering/discretize/param.png) ](/img/aistudio/feature-engineering/discretize/param.png)
 
 点击**“详细配置”**按钮，对数据集的连续型属性进行详细配置：
-![interaction](/img/aistudio/feature-engineering/discretize/interaction.png)
+[ ![](/img/aistudio/feature-engineering/discretize/interaction.png) ](/img/aistudio/feature-engineering/discretize/interaction.png)
 
 #### 参数选项
 <table>
@@ -48,7 +48,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，通过**“查看数据”（Data Table）**控件查看加载数据的信息，同时使用**“离散化”（Discretize）**控件对数据集进行离散化处理，之后通过**“查看数据”（Data Table）**控件查看处理后的数据集。   
-![workflow](/img/aistudio/feature-engineering/discretize/workflow.png)
+[ ![](/img/aistudio/feature-engineering/discretize/workflow.png) ](/img/aistudio/feature-engineering/discretize/workflow.png)
 
 案例中加载 iris 数据集，在进行离散化处理时，默认使用“等宽划分”，“详细配置”时，对【sepal length】属性采用“保留原始数值”的操作，对【sepal width】采用“Entropy-MDL”的方式进行离散化。案例中控件的配置以及执行结果如下图所示。    
-![workflow-result](/img/aistudio/feature-engineering/discretize/workflow-result.png)
+[ ![](/img/aistudio/feature-engineering/discretize/workflow-result.png ](/img/aistudio/feature-engineering/discretize/workflow-result.png)

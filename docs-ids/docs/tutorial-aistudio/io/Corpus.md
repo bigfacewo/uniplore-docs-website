@@ -13,7 +13,7 @@
 
 ### 页面介绍
 点击**“加载语料库”（Corpus）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/io/corpus/param.png)
+[ ![](/img/aistudio/io/corpus/param.png) ](/img/aistudio/io/corpus/param.png)
 
 #### 参数选项
 <table>
@@ -48,7 +48,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载语料库”（Corpus）**控件加载文本数据集，连接用**“语料库查看器”（Corpus Viewer）**控件查看结果。  
-![workflow](/img/aistudio/io/corpus/workflow.png)
+[ ![](/img/aistudio/io/corpus/workflow.png) ](/img/aistudio/io/corpus/workflow.png)
 
 案例中加载 andersen 样例数据集，案例中控件执行结果如下图所示：  
-![workflow-result](/img/aistudio/io/corpus/workflow-result.png)
+[ ![](/img/aistudio/io/corpus/workflow-result.png ](/img/aistudio/io/corpus/workflow-result.png)

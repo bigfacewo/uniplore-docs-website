@@ -14,7 +14,7 @@
 
 ### 页面介绍
 点击**“支持向量机（SVM）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/model/svm/param.png)
+[ ![](/img/aistudio/model/svm/param.png) ](/img/aistudio/model/svm/param.png)
 
 #### 参数选项
 <table>
@@ -91,7 +91,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件（File）”**控件加载数据集，连接**“支持向量机（sVM）”**控件构建模型，之后把**“加载文件（File）”**控件以及**“支持向量机（SVM）”**控件与**“预测（Predictions）”**控件连接起来查看基于已经构建的 SVM 模型对输入数据进行预测的结果。  
-![workflow](/img/aistudio/model/svm/workflow.png)  
+[ ![](/img/aistudio/model/svm/workflow.png)   ](/img/aistudio/model/svm/workflow.png)  
 
 案例中加载“iris”数据集，对于**“支持向量机（SVM）”**控件的配置，设置名称为 SVM，选择 v-SVM 类型，内核函数选择 Sigmoid 核，其他使用默认参数。案例中控件的配置及运行结果如下图所示。
-![workflow-result](/img/aistudio/model/svm/workflow-result.png)
+[ ![](/img/aistudio/model/svm/workflow-result.png ](/img/aistudio/model/svm/workflow-result.png)

@@ -13,10 +13,10 @@
 
 ### 页面介绍
 点击**“混淆矩阵”（Confusion Matrix）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/evaluate/confusion-matrix/param.png)
+[ ![](/img/aistudio/evaluate/confusion-matrix/param.png) ](/img/aistudio/evaluate/confusion-matrix/param.png)
 
 点击**“查看结果”**按钮，查看曲线：
-![visualization](/img/aistudio/evaluate/confusion-matrix/visualization.png)
+[ ![](/img/aistudio/evaluate/confusion-matrix/visualization.png) ](/img/aistudio/evaluate/confusion-matrix/visualization.png)
 
 #### 参数选项
 <table>
@@ -46,11 +46,11 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，使用**“K近邻”（KNN）**、**“决策树”（Tree）**、**“逻辑回归”（Logistic Regression）**等模型在**“评分和测试”（Test & Score）**控件中进行测试和评估，最后将评估结果在**“混淆矩阵”（Confusion Matrix）**控件中进行展示。   
-![workflow](/img/aistudio/evaluate/confusion-matrix/workflow.png)
+[ ![](/img/aistudio/evaluate/confusion-matrix/workflow.png) ](/img/aistudio/evaluate/confusion-matrix/workflow.png)
 
 案例中加载 titanic 数据集，针对**“K近邻”（KNN）**、**“决策树”（Tree）**、**“逻辑回归”（Logistic Regression）**算法进行测试和评估，**“评分和测试”（Test & Score）**显示每个分类器的评估结果。然后根据**“评分和测试”（Test & Score）**的结果绘制混淆矩阵，以进一步交叉验证算法的预测结果。**“混淆矩阵”（Confusion Matrix）**可以查看有多少实例被错误分类以及错误的类型，案例中控件的配置以及执行结果如下图所示。  
-![workflow-result1](/img/aistudio/evaluate/confusion-matrix/workflow-result1.png)
+[ ![](/img/aistudio/evaluate/confusion-matrix/workflow-result1.png) ](/img/aistudio/evaluate/confusion-matrix/workflow-result1.png)
 
-![workflow-result2](/img/aistudio/evaluate/confusion-matrix/workflow-result2.png)
+[ ![](/img/aistudio/evaluate/confusion-matrix/workflow-result2.png) ](/img/aistudio/evaluate/confusion-matrix/workflow-result2.png)
 
-![workflow-result3](/img/aistudio/evaluate/confusion-matrix/workflow-result3.png)
+[ ![](/img/aistudio/evaluate/confusion-matrix/workflow-result3.png ](/img/aistudio/evaluate/confusion-matrix/workflow-result3.png)

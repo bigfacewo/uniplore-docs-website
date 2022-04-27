@@ -12,7 +12,7 @@
 
 ### 页面介绍
 点击**“语料库查看器（Corpus Viewer）”**控件查看参数配置页面，如下图所示：  
-![interaction](/img/aistudio/text-mining/corpus-viewer/interaction.png)
+[ ![](/img/aistudio/text-mining/corpus-viewer/interaction.png) ](/img/aistudio/text-mining/corpus-viewer/interaction.png)
 
 #### 参数选项
 <table>
@@ -57,7 +57,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载语料库（Corpus）”**控件加载文本数据集，之后连接**“语料库查看器（Corpus Viewer）”**控件查看文本数据集的详情。  
-![workflow](/img/aistudio/text-mining/corpus-viewer/workflow.png)
+[ ![](/img/aistudio/text-mining/corpus-viewer/workflow.png) ](/img/aistudio/text-mining/corpus-viewer/workflow.png)
 
 案例中加载“andersen”数据集，案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/text-mining/corpus-viewer/workflow-result.png)
+[ ![](/img/aistudio/text-mining/corpus-viewer/workflow-result.png ](/img/aistudio/text-mining/corpus-viewer/workflow-result.png)

@@ -13,7 +13,7 @@
 
 ### 页面介绍
 点击**“层次聚类”（Hierarchical Clustering）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/clustering/hierarchical-clustering/param.png)
+[ ![](/img/aistudio/clustering/hierarchical-clustering/param.png) ](/img/aistudio/clustering/hierarchical-clustering/param.png)
 
 #### 参数选项
 <table>
@@ -58,7 +58,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载距离文件”（Distance File）**控件加载距离文件，将结果作为**“层次聚类”（Hierarchical Clustering）**的输入，查看聚类结果。  
-![workflow](/img/aistudio/clustering/hierarchical-clustering/workflow.png)
+[ ![](/img/aistudio/clustering/hierarchical-clustering/workflow.png) ](/img/aistudio/clustering/hierarchical-clustering/workflow.png)
 
 案例中加载“Conferences”数据集，案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/clustering/hierarchical-clustering/workflow-result.png)
+[ ![](/img/aistudio/clustering/hierarchical-clustering/workflow-result.png ](/img/aistudio/clustering/hierarchical-clustering/workflow-result.png)

@@ -14,7 +14,7 @@
 
 ### 页面介绍
 点击**“数据连接”（Concatenate）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/preprocess/concatenate/param.png)
+[ ![](/img/aistudio/preprocess/concatenate/param.png) ](/img/aistudio/preprocess/concatenate/param.png)
 
 #### 参数选项
 <table>
@@ -41,7 +41,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用两个**“加载文件”（File）**控件加载分割后的数据集，通过**“查看数据”（Data Table）**控件查看加载数据的信息，同时使用**“数据连接”（Concatenate）**控件连接数据集，之后通过**“查看数据”（Data Table）**控件查看连接后的数据集。  
-![workflow](/img/aistudio/preprocess/concatenate/workflow.png)
+[ ![](/img/aistudio/preprocess/concatenate/workflow.png) ](/img/aistudio/preprocess/concatenate/workflow.png)
 
 案例中加载 bridges.mt1 数据集，其中一个数据集大小为 108（该数据集作为 prm 输入），另一个加载 bridges.mt2 数据集，数据集大小为 108，之后连接两个数据集，并追加数据集标识字段。案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/preprocess/concatenate/workflow-result.png)
+[ ![](/img/aistudio/preprocess/concatenate/workflow-result.png ](/img/aistudio/preprocess/concatenate/workflow-result.png)

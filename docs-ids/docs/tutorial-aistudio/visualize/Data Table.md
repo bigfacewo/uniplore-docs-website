@@ -12,7 +12,7 @@
 
 ### 页面介绍
 点击**“查看数据（Data Table）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/visualize/data-table/param.png)
+[ ![](/img/aistudio/visualize/data-table/param.png) ](/img/aistudio/visualize/data-table/param.png)
 
 点击**“查看结果”**按钮，查看数据集详情：  
 [![](/img/aistudio/visualize/data-table/visualization.png)](/img/aistudio/visualize/data-table/visualization.png)
@@ -42,7 +42,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件（File）”**控件加载数据集，再通过**“查看数据（Data Table）”**控件查看加载的数据集。  
-![workflow](/img/aistudio/visualize/data-table/workflow.png)
+[ ![](/img/aistudio/visualize/data-table/workflow.png) ](/img/aistudio/visualize/data-table/workflow.png)
 
 案例中加载“iris”数据集，运行**“查看数据（Data Table）”**后，勾选“可视化连续值”以及“根据示例类型标记颜色”。案例中控件的配置以及执行结果如下图所示。  
 [![](/img/aistudio/visualize/data-table/workflow-result.png)](/img/aistudio/visualize/data-table/workflow-result.png)

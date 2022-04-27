@@ -13,7 +13,7 @@
 
 ### 页面介绍
 点击**“保存数据”（Save Data）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/io/save-data/param.png)
+[ ![](/img/aistudio/io/save-data/param.png) ](/img/aistudio/io/save-data/param.png)
 
 #### 参数选项
 <table>
@@ -40,4 +40,4 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（save-data）**控件加载样例数据集，接着连接**“保存数据”（Save Data）**控件将样例数据集保存为文件。  
-![workflow-result](/img/aistudio/io/save-data/workflow.png)
+[ ![](/img/aistudio/io/save-data/workflow.png) ](/img/aistudio/io/save-data/workflow.png)

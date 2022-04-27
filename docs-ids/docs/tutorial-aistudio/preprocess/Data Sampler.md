@@ -14,7 +14,7 @@
 
 ### 页面介绍
 点击**“数据抽样”（Data Sampler）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/preprocess/data-sampler/param.png)
+[ ![](/img/aistudio/preprocess/data-sampler/param.png) ](/img/aistudio/preprocess/data-sampler/param.png)
 
 
 #### 参数选项
@@ -45,7 +45,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，通过**“数据信息”（Data Info）**控件查看加载数据的信息，同时使用**“数据抽样”（Data Sampler）**控件进行数据采样，之后通过**“查看数据”（Data Table）**控件查看处理后的数据集。   
-![workflow](/img/aistudio/preprocess/data-sampler/workflow.png)
+[ ![](/img/aistudio/preprocess/data-sampler/workflow.png) ](/img/aistudio/preprocess/data-sampler/workflow.png)
 
 在案例中加载 titanic 数据集，使用了固定比例的采样方式进行数据采样，采样比例设定为20%。案例中控件的配置以及执行结果如下图所示。      
-![workflow-result](/img/aistudio/preprocess/data-sampler/workflow-result.png)
+[ ![](/img/aistudio/preprocess/data-sampler/workflow-result.png ](/img/aistudio/preprocess/data-sampler/workflow-result.png)

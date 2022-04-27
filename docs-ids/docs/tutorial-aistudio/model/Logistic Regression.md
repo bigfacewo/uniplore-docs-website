@@ -16,7 +16,7 @@
 
 ### 页面介绍
 点击**“逻辑回归（Logistic Regression）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/model/logistic-regression/param.png)
+[ ![](/img/aistudio/model/logistic-regression/param.png) ](/img/aistudio/model/logistic-regression/param.png)
 
 #### 参数选项
 <table>
@@ -50,7 +50,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件（File）”**控件加载数据集，连接**“逻辑回归（Logistic Regression）”**控件构建模型，之后把**“加载文件（File）”**控件以及**“逻辑回归（Logistic Regression）”**控件与**“预测（Predictions）”**控件，然后连接起来查看基于已经构建的逻辑回归模型对输入数据进行预测的结果。
-![workflow](/img/aistudio/model/logistic-regression/workflow.png)
+[ ![](/img/aistudio/model/logistic-regression/workflow.png) ](/img/aistudio/model/logistic-regression/workflow.png)
 
 案例中加载“iris”数据集，其余参数使用默认值。在构建模型时，**“逻辑回归（Logistic Regression）”**控件选用 岭回归Ridge（L2）正则化方法，并且设置惩罚力度 C=1。之后基于已经构建的 Logistic Regression 模型对数据集进行预测。案例中控件的配置以及运行结果如下图所示。
-![workflow-result](/img/aistudio/model/logistic-regression/workflow-result.png)
+[ ![](/img/aistudio/model/logistic-regression/workflow-result.png ](/img/aistudio/model/logistic-regression/workflow-result.png)

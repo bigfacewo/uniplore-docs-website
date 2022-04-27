@@ -13,7 +13,7 @@
 
 ### 页面介绍
 点击**“网络聚类”（Network Clustering）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/network/network-clustering/param.png)
+[ ![](/img/aistudio/network/network-clustering/param.png) ](/img/aistudio/network/network-clustering/param.png)
 
 #### 参数选项
 <table>
@@ -48,7 +48,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**网络生成器（Network Generator）**控件生成网络图，之后连接**“网络聚类”（Network Clustering）**控件对图进行聚类计算，最后连接**“查看数据（Data Table）”**查看聚类结果。
-![workflow](/img/aistudio/network/network-clustering/workflow.png)
+[ ![](/img/aistudio/network/network-clustering/workflow.png) ](/img/aistudio/network/network-clustering/workflow.png)
 
 案例中全部组件使用默认配置，案例中控件的配置以及执行结果如下图所示。
 [![](/img/aistudio/network/network-clustering/workflow-result.png)](/img/aistudio/network/network-clustering/workflow-result.png)

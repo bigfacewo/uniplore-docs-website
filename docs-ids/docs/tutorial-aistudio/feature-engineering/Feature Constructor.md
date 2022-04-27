@@ -13,7 +13,7 @@
 
 ### 页面介绍
 点击**“特征构建”（Feature Constructor）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/feature-engineering/feature-constructor/param.png)
+[ ![](/img/aistudio/feature-engineering/feature-constructor/param.png) ](/img/aistudio/feature-engineering/feature-constructor/param.png)
 
 #### 参数选项
 
@@ -96,7 +96,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，通过**“查看数据”（Data Table）**控件查看加载数据的信息，同时使用**“特征构建”（Feature Constructor）**控件构造新的属性，之后通过**“查看数据”（Data Table）**控件查看处理后的数据集。   
-![workflow](/img/aistudio/feature-engineering/feature-constructor/workflow.png)
+[ ![](/img/aistudio/feature-engineering/feature-constructor/workflow.png) ](/img/aistudio/feature-engineering/feature-constructor/workflow.png)
 
 案例中采用 iris 数据集，构造了一个连续型特征【sepal_length_flag】和一个离散型特征【ceil_sepal_length】。案例中控件的配置以及执行结果如下图所示。    
-![workflow-result](/img/aistudio/feature-engineering/feature-constructor/workflow-result.png)
+[ ![](/img/aistudio/feature-engineering/feature-constructor/workflow-result.png ](/img/aistudio/feature-engineering/feature-constructor/workflow-result.png)

@@ -13,7 +13,7 @@
 
 ### 页面介绍
 点击**“加载距离文件”（Distance File）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/io/distance-file/param.png)
+[ ![](/img/aistudio/io/distance-file/param.png) ](/img/aistudio/io/distance-file/param.png)
 
 #### 参数选项
 <table>
@@ -41,7 +41,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载距离文件”（Distance File）**控件加载数据，使用**“距离矩阵”（Distance Matrix）**控件查看距离矩阵。  
-![workflow](/img/aistudio/io/distance-file/workflow.png)
+[ ![](/img/aistudio/io/distance-file/workflow.png) ](/img/aistudio/io/distance-file/workflow.png)
 
 案例中**“加载距离文件”（Distance File）**控件加载 conferences 样例数据。案例中控件的配置及运行结果如下图所示。  
-![workflow-result](/img/aistudio/io/distance-file/workflow-result.png)
+[ ![](/img/aistudio/io/distance-file/workflow-result.png ](/img/aistudio/io/distance-file/workflow-result.png)

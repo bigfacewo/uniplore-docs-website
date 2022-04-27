@@ -12,7 +12,7 @@
 
 ### 页面介绍
 点击**“词袋（Bag of Words）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/text-mining/bag-of-words/param.png)
+[ ![](/img/aistudio/text-mining/bag-of-words/param.png) ](/img/aistudio/text-mining/bag-of-words/param.png)
 
 #### 参数选项
 <table>
@@ -51,7 +51,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载语料库（Corpus）”**控件加载文本数据集，之后连接**“词袋（Bag of Words）”**控件进行数据处理，使用**“查看数据（Data Table）”**控件查看结果。  
-![workflow](/img/aistudio/text-mining/bag-of-words/workflow.png)
+[ ![](/img/aistudio/text-mining/bag-of-words/workflow.png) ](/img/aistudio/text-mining/bag-of-words/workflow.png)
 
 案例中加载“andersen”数据集，其余使用默认参数，案例中控件的配置以及执行结果如下图所示。  
 [![](/img/aistudio/text-mining/bag-of-words/workflow-result.png)](/img/aistudio/text-mining/bag-of-words/workflow-result.png)

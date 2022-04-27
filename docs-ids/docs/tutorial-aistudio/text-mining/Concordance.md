@@ -14,7 +14,7 @@
 
 ### 页面介绍
 点击**“语汇索引（Concordance）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/text-mining/concordance/param.png)
+[ ![](/img/aistudio/text-mining/concordance/param.png) ](/img/aistudio/text-mining/concordance/param.png)
 
 点击“查看数据”按钮，进行文本搜索：
 [![](/img/aistudio/text-mining/concordance/interaction.png)](/img/aistudio/text-mining/concordance/interaction.png)
@@ -54,7 +54,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载语料库（Corpus）”**控件加载文本数据集，之后连接**“语汇索引（Concordance）”**控件进行内容搜索，使用**“查看数据（Data Table）”**控件查看搜索内容。  
-![workflow](/img/aistudio/text-mining/concordance/workflow.png)
+[ ![](/img/aistudio/text-mining/concordance/workflow.png) ](/img/aistudio/text-mining/concordance/workflow.png)
 
 案例中加载“andersen”数据集，**“语汇索引（Concordance）”**控件单词数设置为8，查询单词为to。案例中控件的配置以及执行结果如下图所示。  
 [![](/img/aistudio/text-mining/concordance/workflow-result.png)](/img/aistudio/text-mining/concordance/workflow-result.png)

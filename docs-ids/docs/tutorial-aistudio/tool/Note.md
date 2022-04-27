@@ -12,7 +12,7 @@
 
 ### 页面介绍
 点击**“便签（Note）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/tool/note/param.png)
+[ ![](/img/aistudio/tool/note/param.png) ](/img/aistudio/tool/note/param.png)
 
 #### 参数选项
 <table>
@@ -53,7 +53,7 @@
 
 ### 使用案例
 添加**“便签（Note）”**控件，鼠标放置到控件右下方调整便签大小，之后点击**“便签（Note）”**控件进行参数配置。  
-![workflow](/img/aistudio/tool/note/workflow.png)
+[ ![](/img/aistudio/tool/note/workflow.png) ](/img/aistudio/tool/note/workflow.png)
 
 修改**“便签（Note）”**控件背景颜色为R(2),G(109),B(247)，边框颜色为R(226),G(97),B(54)，边宽宽度为2，编写便签内容，案例中控件的配置及执行结果如下图所示。  
-![workflow-result](/img/aistudio/tool/note/workflow-result.png)
+[ ![](/img/aistudio/tool/note/workflow-result.png ](/img/aistudio/tool/note/workflow-result.png)

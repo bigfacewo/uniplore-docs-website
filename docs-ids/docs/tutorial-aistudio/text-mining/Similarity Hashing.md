@@ -12,7 +12,7 @@
 
 ### 页面介绍
 点击**“相似度哈希（Similarity Hashing）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/text-mining/similarity-hash/param.png)
+[ ![](/img/aistudio/text-mining/similarity-hash/param.png) ](/img/aistudio/text-mining/similarity-hash/param.png)
 
 #### 参数选项
 <table>
@@ -39,7 +39,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载语料库（Corpus）”**控件加载文本数据集，连接**“相似度哈希（Similarity Hashing）”**控件对数据进行处理，使用**“查看数据（Data Table）”**控件查看处理后的数据。  
-![workflow](/img/aistudio/text-mining/similarity-hash/workflow.png)
+[ ![](/img/aistudio/text-mining/similarity-hash/workflow.png) ](/img/aistudio/text-mining/similarity-hash/workflow.png)
 
 案例中加载“andersen”数据集，其余控件使用默认参数，案例中控件的配置以及执行结果如下图所示。
 [![](/img/aistudio/text-mining/similarity-hash/workflow-result.png)](/img/aistudio/text-mining/similarity-hash/workflow-result.png)
