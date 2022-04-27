@@ -15,7 +15,7 @@
 ![param](/img/aistudio/visualize/venn-diagram/param.png)
 
 点击**“查看结果”**按钮，查看数据集详情：  
-![visualization](/img/aistudio/visualize/venn-diagram/visualization.png)
+[![](/img/aistudio/visualize/venn-diagram/visualization.png)](/img/aistudio/visualize/venn-diagram/visualization.png)
 
 #### 参数选项
 <table>
@@ -45,4 +45,4 @@
 ![workflow](/img/aistudio/visualize/venn-diagram/workflow.png)
 
 案例中加载“iris”数据集，其余控件使用默认参数配置。案例中控件的配置以及执行结果如下图所示。
-![workflow-result](/img/aistudio/visualize/venn-diagram/workflow-result.png)
+[![](/img/aistudio/visualize/venn-diagram/workflow-result.png)](/img/aistudio/visualize/venn-diagram/workflow-result.png)

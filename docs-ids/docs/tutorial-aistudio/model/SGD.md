@@ -20,11 +20,13 @@
 #### 参数选项
 <table>
   <tr>
-    <th>选项</th>
-    <th width="650">说明</th>
+    <th width="100"></th>
+    <th width="150">选项</th>
+    <th width="600">说明</th>
     <th>样例值</th>
   </tr>
   <tr>
+      <td></td> 
       <td>模型名称</td> 
       <td>
       设置模型名称，用于在其他组件中区分不同的模型
@@ -32,6 +34,7 @@
       <td>SGD</td>
   </tr>
   <tr>
+      <td rowspan="2">算法</td> 
       <td>分类损失度函数</td> 
       <td>
       Hinge（线性 SVM）<br/>
@@ -57,6 +60,7 @@
     <td></td>
   </tr>
   <tr>
+    <td rowspan="3">正则化</td> 
     <td>正则化方法</td> 
     <td>
     None<br/>
@@ -81,6 +85,7 @@
     <td></td>
   </tr>
   <tr>
+    <td rowspan="6">学习参数</td> 
     <td>学习速率</td> 
     <td>
     Constant：学习率保持不变 <br/>

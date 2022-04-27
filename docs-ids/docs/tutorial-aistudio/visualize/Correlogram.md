@@ -15,7 +15,7 @@
 ![param](/img/aistudio/visualize/correlogram/param.png)
 
 点击**“查看结果”**按钮，查看数据集详情：  
-![visualization](/img/aistudio/visualize/correlogram/visualization.png)
+[ ![](/img/aistudio/visualize/correlogram/visualization.png) ](/img/aistudio/visualize/correlogram/visualization.png)
 
 #### 参数选项
 <table>
@@ -52,4 +52,4 @@
 ![workflow](/img/aistudio/visualize/correlogram/workflow.png)
 
 案例中加载“airpassenger”数据集，案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/visualize/correlogram/workflow-result.png)
+[ ![](/img/aistudio/visualize/correlogram/workflow-result.png) ](/img/aistudio/visualize/correlogram/workflow-result.png)

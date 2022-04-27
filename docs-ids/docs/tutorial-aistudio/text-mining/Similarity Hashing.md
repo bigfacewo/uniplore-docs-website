@@ -42,4 +42,4 @@
 ![workflow](/img/aistudio/text-mining/similarity-hash/workflow.png)
 
 案例中加载“andersen”数据集，其余控件使用默认参数，案例中控件的配置以及执行结果如下图所示。
-![workflow-result](/img/aistudio/text-mining/similarity-hash/workflow-result.png)
+[![](/img/aistudio/text-mining/similarity-hash/workflow-result.png)](/img/aistudio/text-mining/similarity-hash/workflow-result.png)

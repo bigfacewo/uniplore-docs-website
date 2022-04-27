@@ -23,6 +23,7 @@
 #### 参数选项
 <table>
   <tr>
+    <th></th>
     <th>选项</th>
     <th width="650">说明</th>
     <th>样例值</th>
@@ -78,4 +79,4 @@
 ![workflow](/img/aistudio/visualize/polynomial-regression/workflow.png)
 
 案例中加载“iris”数据集，运行**“多项式回归（Polynomial Regression）”**后，设置多项式扩展值为3，其余使用默认参数。案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/visualize/polynomial-regression/workflow-result.png)
+[![](/img/aistudio/visualize/polynomial-regression/workflow-result.png)](/img/aistudio/visualize/polynomial-regression/workflow-result.png)

@@ -59,5 +59,5 @@
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，通过**“数据信息”（Data Info）**控件查看加载数据的信息，同时使用**“编辑属性类型”（Change Domain）**控件修改数据集的属性类型设置，之后通过**“数据信息”（Data Info）**控件查看处理后的数据集。   
 ![workflow](/img/aistudio/feature-engineering/change-domain/workflow.png)
 
-案例中加载 iris 数据集，设置【iris】为文本类型，设置【sepal length】和【sepal width】设置为离散类型。案例中控件的配置以及执行结果如下图所示。    
+案例中加载 iris 数据集，设置【iris】为文本类型，设置【sepal length】和【sepal width】设置为离散类型。案例中控件的配置以及执行结果如下图所示。  
 ![workflow-result](/img/aistudio/feature-engineering/change-domain/workflow-result.png)

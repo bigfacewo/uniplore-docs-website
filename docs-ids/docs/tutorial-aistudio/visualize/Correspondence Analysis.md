@@ -15,7 +15,7 @@
 ![param](/img/aistudio/visualize/correspondence-analysis/param.png)
 
 点击**“查看结果”**按钮，查看数据集详情：  
-![visualization](/img/aistudio/visualize/correspondence-analysis/visualization.png)
+[ ![](/img/aistudio/visualize/correspondence-analysis/visualization.png) ](/img/aistudio/visualize/correspondence-analysis/visualization.png)
 
 #### 参数选项
 <table>
@@ -52,4 +52,4 @@
 ![workflow](/img/aistudio/visualize/correspondence-analysis/workflow.png)
 
 案例中加载“titanic”数据集，案例中控件的配置以及执行结果如下图所示，**“对应分析（Correspondence Analysis）”**控件将多个变量绘制到二维图形上，以便于看出变量值之间的关系。  
-![workflow-result](/img/aistudio/visualize/correspondence-analysis/workflow-result.png)
+[ ![](/img/aistudio/visualize/correspondence-analysis/workflow-result.png) ](/img/aistudio/visualize/correspondence-analysis/workflow-result.png)

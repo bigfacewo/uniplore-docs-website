@@ -15,7 +15,7 @@
 ![param](/img/aistudio/visualize/tree-viewer/param.png)
 
 点击**“查看结果”**按钮，查看数据集详情：  
-![visualization](/img/aistudio/visualize/tree-viewer/visualization.png)
+[![](/img/aistudio/visualize/tree-viewer/visualization.png)](/img/aistudio/visualize/tree-viewer/visualization.png)
 
 #### 参数选项
 <table>
@@ -48,7 +48,7 @@
   <tr>
       <td>边宽</td> 
       <td>
-      树的边宽
+      树的边宽 <br/>
       &emsp;&emsp;固定宽度：所有边的宽度相同 <br/>
       &emsp;&emsp;相对宽度（根）：边的宽度根据节点中实例相对于训练数据中的所有实例的比列进行变化 <br/>
       &emsp;&emsp;相对宽度（父）：边的宽度根据节点中实例相对于父节点中的实例的比例进行变化 <br/>
@@ -69,4 +69,4 @@
 ![workflow](/img/aistudio/visualize/tree-viewer/workflow.png)
 
 案例中加载“iris”数据集，**“决策树（Tree）”**控件使用默认配置，**“决策树查看器（Tree Viewer）”**控件中深度选项选择不限。案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/visualize/tree-viewer/workflow-result.png)
+[![](/img/aistudio/visualize/tree-viewer/workflow-result.png)](/img/aistudio/visualize/tree-viewer/workflow-result.png)

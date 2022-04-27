@@ -10,7 +10,7 @@
 
 ### 页面介绍
 点击**“情感分析（Sentiment Analysis）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/text-mining/sentiment-analysis/param.png)
+[![](/img/aistudio/text-mining/sentiment-analysis/param.png)](/img/aistudio/text-mining/sentiment-analysis/param.png)
 
 #### 参数选项
 <table>
@@ -36,4 +36,4 @@
 ![workflow](/img/aistudio/text-mining/sentiment-analysis/workflow.png)
 
 案例中加载“andersen”数据集，**“情感分析（Sentiment Analysis）”**控件中，选择Vader方法进行情感分析。案例中控件的配置以及执行结果如下图所示。
-![workflow-result](/img/aistudio/text-mining/sentiment-analysis/workflow-result.png)
+[![](/img/aistudio/text-mining/sentiment-analysis/workflow-result.png)](/img/aistudio/text-mining/sentiment-analysis/workflow-result.png)
