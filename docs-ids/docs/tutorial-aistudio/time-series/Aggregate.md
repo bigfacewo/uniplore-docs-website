@@ -43,4 +43,4 @@
 [ ![](/img/aistudio/time-series/aggregate/workflow.png) ](/img/aistudio/time-series/aggregate/workflow.png)
 
 案例中加载 airpassengers 数据集，对于**“聚集”（Aggregate）**控件，选择聚集依据为year，对属性【Air passengers】进行“Mean”操作计算平均值，案例中控件的配置以及执行结果如下图所示。   
-[ ![](/img/aistudio/time-series/aggregate/workflow-result.png ](/img/aistudio/time-series/aggregate/workflow-result.png)
+[ ![](/img/aistudio/time-series/aggregate/workflow-result.png) ](/img/aistudio/time-series/aggregate/workflow-result.png)

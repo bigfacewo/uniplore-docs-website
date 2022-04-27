@@ -46,5 +46,5 @@
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，使用**“查看数据”（Data Table）**查看数据集，同时连接**“插值处理”（Interpolate）**控件对数据进行插值处理，之后使用**“查看数据”（Data Table）**控件查看处理后的数据。  
 [ ![](/img/aistudio/time-series/interpolate/workflow.png) ](/img/aistudio/time-series/interpolate/workflow.png)
 
-案例中加载 airpassengers-missing 数据集，其余控件使用默认参数，案例中控件的配置以及执行结果如下图所示。   
-[ ![](/img/aistudio/time-series/interpolate/workflow-result.png ](/img/aistudio/time-series/interpolate/workflow-result.png)
+案例中加载 [ airpassengers-missing ](/sample-file/aistudio/time-series/interpolate/airpassengers-missing.csv) 数据集，其余控件使用默认参数，案例中控件的配置以及执行结果如下图所示。   
+[ ![](/img/aistudio/time-series/interpolate/workflow-result.png) ](/img/aistudio/time-series/interpolate/workflow-result.png)

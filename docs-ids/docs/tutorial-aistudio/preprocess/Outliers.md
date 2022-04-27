@@ -49,4 +49,4 @@
 [ ![](/img/aistudio/preprocess/outliers/workflow.png) ](/img/aistudio/preprocess/outliers/workflow.png)
 
 案例中加载 iris 数据集，**“离群值处理”（Outliers）**使用默认配置。案例中控件的配置以及执行结果如下图所示。    
-[ ![](/img/aistudio/preprocess/outliers/workflow-result.png ](/img/aistudio/preprocess/outliers/workflow-result.png)
+[ ![](/img/aistudio/preprocess/outliers/workflow-result.png) ](/img/aistudio/preprocess/outliers/workflow-result.png)

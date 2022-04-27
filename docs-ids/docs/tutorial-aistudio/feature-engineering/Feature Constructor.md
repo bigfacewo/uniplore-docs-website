@@ -19,7 +19,7 @@
 
 **连续特征参数选项**
 对于连续型特征而言，只能通过构造一个Python表达式来计算特征值。  
-![numeric](/img/aistudio/feature-engineering/feature-constructor/numeric.png)
+[ ![](/img/aistudio/feature-engineering/feature-constructor/numeric.png) ](/img/aistudio/feature-engineering/feature-constructor/numeric.png)
 
 <table>
   <tr>
@@ -68,7 +68,7 @@
 
 **离散特征参数选项**
 对于离散型特征而言，还需对更多参数进行配置。点击“新建属性”按钮，并选择创建离散型特征，出现如下图所示的交互页面。用户除了需要对上图中显示的参数进行设置之外，还需列出离散特征的所有取值。  
-![category](/img/aistudio/feature-engineering/feature-constructor/category.png)
+[ ![](/img/aistudio/feature-engineering/feature-constructor/category.png) ](/img/aistudio/feature-engineering/feature-constructor/category.png)
 
 <table>
   <tr>
@@ -99,4 +99,4 @@
 [ ![](/img/aistudio/feature-engineering/feature-constructor/workflow.png) ](/img/aistudio/feature-engineering/feature-constructor/workflow.png)
 
 案例中采用 iris 数据集，构造了一个连续型特征【sepal_length_flag】和一个离散型特征【ceil_sepal_length】。案例中控件的配置以及执行结果如下图所示。    
-[ ![](/img/aistudio/feature-engineering/feature-constructor/workflow-result.png ](/img/aistudio/feature-engineering/feature-constructor/workflow-result.png)
+[ ![](/img/aistudio/feature-engineering/feature-constructor/workflow-result.png) ](/img/aistudio/feature-engineering/feature-constructor/workflow-result.png)

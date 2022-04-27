@@ -40,4 +40,4 @@
 [ ![](/img/aistudio/io/load-model/workflow.png) ](/img/aistudio/io/load-model/workflow.png)
 
 案例中加载 iris 样例数据集，模型文件中存储的是 iris 样例数据集在**“决策树”（Tree）**控件上训练的模型。案例中控件的配置以及运行结果如下图所示。  
-[ ![](/img/aistudio/io/load-model/workflow-result.png ](/img/aistudio/io/load-model/workflow-result.png)
+[ ![](/img/aistudio/io/load-model/workflow-result.png) ](/img/aistudio/io/load-model/workflow-result.png)

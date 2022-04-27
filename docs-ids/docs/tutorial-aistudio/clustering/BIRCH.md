@@ -57,4 +57,4 @@
 [ ![](/img/aistudio/clustering/birch/workflow.png) ](/img/aistudio/clustering/birch/workflow.png)
 
 案例中加载“iris”数据集，案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/clustering/birch/workflow-result.png ](/img/aistudio/clustering/birch/workflow-result.png)
+[ ![](/img/aistudio/clustering/birch/workflow-result.png) ](/img/aistudio/clustering/birch/workflow-result.png)

@@ -53,4 +53,4 @@
 [ ![](/img/aistudio/model/automl/workflow.png) ](/img/aistudio/model/automl/workflow.png)
 
 案例中加载“iris”数据集，使用**“自动化机器学习（AutoML Training）”**控件默认参数运行。案例中控件的配置以及运行结果如下图所示。
-[ ![](/img/aistudio/model/automl/workflow-result.png ](/img/aistudio/model/automl/workflow-result.png)
+[ ![](/img/aistudio/model/automl/workflow-result.png) ](/img/aistudio/model/automl/workflow-result.png)

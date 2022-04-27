@@ -66,4 +66,4 @@
 [ ![](/img/aistudio/feature-engineering/create-class/workflow.png) ](/img/aistudio/feature-engineering/create-class/workflow.png)
 
 案例中加载 car 数据集，基于原始数据集中的【persons】属性创建一个与车型相匹配新的分类属性。案例中控件的配置以及执行结果如下图所示。    
-[ ![](/img/aistudio/feature-engineering/create-class/workflow-result.png ](/img/aistudio/feature-engineering/create-class/workflow-result.png)
+[ ![](/img/aistudio/feature-engineering/create-class/workflow-result.png) ](/img/aistudio/feature-engineering/create-class/workflow-result.png)

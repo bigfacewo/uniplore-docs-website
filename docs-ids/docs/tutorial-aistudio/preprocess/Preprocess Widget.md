@@ -40,4 +40,4 @@
 [ ![](/img/aistudio/preprocess/preprocess/workflow.png) ](/img/aistudio/preprocess/preprocess/workflow.png)
 
 案例中加载 bridges 数据集，选择“连续化处理”，“缺失值处理”，“数据混淆”对数据集进行预处理，其中各处理的参数设置为默认设置。案例中控件的配置以及执行结果如下图所示。    
-[ ![](/img/aistudio/preprocess/preprocess/workflow-result.png ](/img/aistudio/preprocess/preprocess/workflow-result.png)
+[ ![](/img/aistudio/preprocess/preprocess/workflow-result.png) ](/img/aistudio/preprocess/preprocess/workflow-result.png)

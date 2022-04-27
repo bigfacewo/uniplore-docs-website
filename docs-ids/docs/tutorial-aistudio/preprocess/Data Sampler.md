@@ -48,4 +48,4 @@
 [ ![](/img/aistudio/preprocess/data-sampler/workflow.png) ](/img/aistudio/preprocess/data-sampler/workflow.png)
 
 在案例中加载 titanic 数据集，使用了固定比例的采样方式进行数据采样，采样比例设定为20%。案例中控件的配置以及执行结果如下图所示。      
-[ ![](/img/aistudio/preprocess/data-sampler/workflow-result.png ](/img/aistudio/preprocess/data-sampler/workflow-result.png)
+[ ![](/img/aistudio/preprocess/data-sampler/workflow-result.png) ](/img/aistudio/preprocess/data-sampler/workflow-result.png)

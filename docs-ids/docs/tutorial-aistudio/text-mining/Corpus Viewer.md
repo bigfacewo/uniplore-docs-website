@@ -60,4 +60,4 @@
 [ ![](/img/aistudio/text-mining/corpus-viewer/workflow.png) ](/img/aistudio/text-mining/corpus-viewer/workflow.png)
 
 案例中加载“andersen”数据集，案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/text-mining/corpus-viewer/workflow-result.png ](/img/aistudio/text-mining/corpus-viewer/workflow-result.png)
+[ ![](/img/aistudio/text-mining/corpus-viewer/workflow-result.png) ](/img/aistudio/text-mining/corpus-viewer/workflow-result.png)

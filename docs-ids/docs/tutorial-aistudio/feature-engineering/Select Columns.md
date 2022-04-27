@@ -60,4 +60,4 @@
 [ ![](/img/aistudio/feature-engineering/select-columns/workflow.png) ](/img/aistudio/feature-engineering/select-columns/workflow.png)
 
 案例中加载 iris 数据集，设置忽略属性【sepal width】和属性【petal length】。案例中控件的配置以及执行结果如下图所示。    
-[ ![](/img/aistudio/feature-engineering/select-columns/workflow-result.png ](/img/aistudio/feature-engineering/select-columns/workflow-result.png)
+[ ![](/img/aistudio/feature-engineering/select-columns/workflow-result.png) ](/img/aistudio/feature-engineering/select-columns/workflow-result.png)

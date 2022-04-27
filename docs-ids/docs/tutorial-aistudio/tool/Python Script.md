@@ -38,4 +38,4 @@
 [ ![](/img/aistudio/tool/python-script/workflow.png) ](/img/aistudio/tool/python-script/workflow.png)
 
 案例中加载“iris”数据集，**“Python脚本（Python Script）”**控件在python代码中输入如图所示的代码，代码功能为为输入数据集添加一个特征属性x，值均为1。案例中控件的配置及执行结果如下图所示。  
-[ ![](/img/aistudio/tool/python-script/workflow-result.png ](/img/aistudio/tool/python-script/workflow-result.png)
+[ ![](/img/aistudio/tool/python-script/workflow-result.png) ](/img/aistudio/tool/python-script/workflow-result.png)

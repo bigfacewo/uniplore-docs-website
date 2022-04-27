@@ -54,4 +54,4 @@
 [ ![](/img/aistudio/model/adaboost/workflow.png) ](/img/aistudio/model/adaboost/workflow.png)
 
 案例中加载“iris”数据集，其余使用默认配置。案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/model/adaboost/workflow-result.png ](/img/aistudio/model/adaboost/workflow-result.png)
+[ ![](/img/aistudio/model/adaboost/workflow-result.png) ](/img/aistudio/model/adaboost/workflow-result.png)

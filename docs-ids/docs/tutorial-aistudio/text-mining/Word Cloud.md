@@ -55,4 +55,4 @@
 [ ![](/img/aistudio/text-mining/word-cloud/workflow.png) ](/img/aistudio/text-mining/word-cloud/workflow.png)
 
 案例中加载“andersen”数据集，**“词云（Word Cloud）”**控件中勾选部分单词。案例中控件的配置以及执行结果如下图所示。
-[ ![](/img/aistudio/text-mining/word-cloud/workflow-result.png ](/img/aistudio/text-mining/word-cloud/workflow-result.png)
+[ ![](/img/aistudio/text-mining/word-cloud/workflow-result.png) ](/img/aistudio/text-mining/word-cloud/workflow-result.png)

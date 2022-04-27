@@ -49,7 +49,7 @@
 ### 模型信息标签
 
 模型信息标签页展示了工作流中的模型组件的参数信息，展示页面如下图所示。  
-![model-info](/img/aistudio/evaluate/predictions/model-info.png)
+[ ![](/img/aistudio/evaluate/predictions/model-info.png) ](/img/aistudio/evaluate/predictions/model-info.png)
 
 #### 信息选项
 <table>
@@ -79,4 +79,4 @@
 [ ![](/img/aistudio/evaluate/predictions/workflow.png) ](/img/aistudio/evaluate/predictions/workflow.png)
 
 案例中加载 iris 数据集，其余控件使用默认参数。案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/evaluate/predictions/workflow-result.png ](/img/aistudio/evaluate/predictions/workflow-result.png)
+[ ![](/img/aistudio/evaluate/predictions/workflow-result.png) ](/img/aistudio/evaluate/predictions/workflow-result.png)

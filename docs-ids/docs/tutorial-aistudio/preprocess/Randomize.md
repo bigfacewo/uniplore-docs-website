@@ -44,4 +44,4 @@
 [ ![](/img/aistudio/preprocess/randomize/workflow.png) ](/img/aistudio/preprocess/randomize/workflow.png)
 
 案例中加载 iris 数据集，对分类属性进行混洗，混洗数据的比例设为 100%。案例中控件的配置以及执行结果如下图所示。    
-[ ![](/img/aistudio/preprocess/randomize/workflow-result.png ](/img/aistudio/preprocess/randomize/workflow-result.png)
+[ ![](/img/aistudio/preprocess/randomize/workflow-result.png) ](/img/aistudio/preprocess/randomize/workflow-result.png)

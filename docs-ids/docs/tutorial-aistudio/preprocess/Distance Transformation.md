@@ -43,4 +43,4 @@
 [ ![](/img/aistudio/preprocess/distance-transformation/workflow.png) ](/img/aistudio/preprocess/distance-transformation/workflow.png)
 
 案例中加载 iris 数据集，案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/preprocess/distance-transformation/workflow-result.png ](/img/aistudio/preprocess/distance-transformation/workflow-result.png)
+[ ![](/img/aistudio/preprocess/distance-transformation/workflow-result.png) ](/img/aistudio/preprocess/distance-transformation/workflow-result.png)

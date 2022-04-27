@@ -38,4 +38,4 @@
 [ ![](/img/aistudio/model/naive-bayes/workflow.png) ](/img/aistudio/model/naive-bayes/workflow.png)
 
 案例中加载“iris”数据集，案例中控件的配置及运行结果如下图所示。  
-[ ![](/img/aistudio/model/naive-bayes/workflow-result.png ](/img/aistudio/model/naive-bayes/workflow-result.png)
+[ ![](/img/aistudio/model/naive-bayes/workflow-result.png) ](/img/aistudio/model/naive-bayes/workflow-result.png)

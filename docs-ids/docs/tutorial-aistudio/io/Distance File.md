@@ -44,4 +44,4 @@
 [ ![](/img/aistudio/io/distance-file/workflow.png) ](/img/aistudio/io/distance-file/workflow.png)
 
 案例中**“加载距离文件”（Distance File）**控件加载 conferences 样例数据。案例中控件的配置及运行结果如下图所示。  
-[ ![](/img/aistudio/io/distance-file/workflow-result.png ](/img/aistudio/io/distance-file/workflow-result.png)
+[ ![](/img/aistudio/io/distance-file/workflow-result.png) ](/img/aistudio/io/distance-file/workflow-result.png)

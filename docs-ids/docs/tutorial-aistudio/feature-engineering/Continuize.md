@@ -72,4 +72,4 @@
 [ ![](/img/aistudio/feature-engineering/continuize/workflow.png) ](/img/aistudio/feature-engineering/continuize/workflow.png)
 
 案例中加载 titanic 数据集，在进行连续化处理时，对多值离散属性采用“以目标/第一个取值为基础”的方式进行连续化处理，对连续型属性采用“保持不变”的处理方式，对离散分类属性采用“每个取值一个属性”的方式进行连续化处理，取值范围选取为 0-1。案例中控件的配置以及执行结果如下图所示。    
-[ ![](/img/aistudio/feature-engineering/continuize/workflow-result.png ](/img/aistudio/feature-engineering/continuize/workflow-result.png)
+[ ![](/img/aistudio/feature-engineering/continuize/workflow-result.png) ](/img/aistudio/feature-engineering/continuize/workflow-result.png)

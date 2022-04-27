@@ -76,4 +76,4 @@
 [ ![](/img/aistudio/time-series/granger-causality/workflow.png) ](/img/aistudio/time-series/granger-causality/workflow.png)
 
 案例中加载 iris 数据集，案例中控件执行结果如下图所示。   
-[ ![](/img/aistudio/time-series/granger-causality/workflow-result.png ](/img/aistudio/time-series/granger-causality/workflow-result.png)
+[ ![](/img/aistudio/time-series/granger-causality/workflow-result.png) ](/img/aistudio/time-series/granger-causality/workflow-result.png)

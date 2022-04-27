@@ -51,4 +51,4 @@
 [ ![](/img/aistudio/preprocess/purge-domain/workflow.png) ](/img/aistudio/preprocess/purge-domain/workflow.png)
 
 案例中加载 bridges 数据集，使用默认配置对数据集进行处理。案例中控件的配置以及执行结果如下图所示。    
-[ ![](/img/aistudio/preprocess/purge-domain/workflow-result.png ](/img/aistudio/preprocess/purge-domain/workflow-result.png)
+[ ![](/img/aistudio/preprocess/purge-domain/workflow-result.png) ](/img/aistudio/preprocess/purge-domain/workflow-result.png)

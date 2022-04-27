@@ -83,4 +83,4 @@
 [ ![](/img/aistudio/model/neural-network/workflow.png) ](/img/aistudio/model/neural-network/workflow.png)
 
 案例中加载“iris”数据集，其他使用默认参数。案例中控件的配置以及执行结果如下图所示。
-[ ![](/img/aistudio/model/neural-network/workflow-result.png ](/img/aistudio/model/neural-network/workflow-result.png)
+[ ![](/img/aistudio/model/neural-network/workflow-result.png) ](/img/aistudio/model/neural-network/workflow-result.png)

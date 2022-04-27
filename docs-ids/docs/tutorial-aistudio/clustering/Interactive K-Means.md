@@ -59,4 +59,4 @@
 [ ![](/img/aistudio/clustering/interactive-kmeans/workflow.png) ](/img/aistudio/clustering/interactive-kmeans/workflow.png)
 
 案例中加载 iris 数据集，案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/clustering/interactive-kmeans/workflow-result.png ](/img/aistudio/clustering/interactive-kmeans/workflow-result.png)
+[ ![](/img/aistudio/clustering/interactive-kmeans/workflow-result.png) ](/img/aistudio/clustering/interactive-kmeans/workflow-result.png)

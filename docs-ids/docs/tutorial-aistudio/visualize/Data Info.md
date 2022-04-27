@@ -63,4 +63,4 @@
 [ ![](/img/aistudio/visualize/data-info/workflow.png) ](/img/aistudio/visualize/data-info/workflow.png)
 
 案例中加载“iris”数据集，案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/visualize/data-info/visualization.png ](/img/aistudio/visualize/data-info/visualization.png)
+[ ![](/img/aistudio/visualize/data-info/visualization.png) ](/img/aistudio/visualize/data-info/visualization.png)

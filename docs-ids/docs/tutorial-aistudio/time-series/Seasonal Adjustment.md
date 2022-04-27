@@ -50,4 +50,4 @@
 [ ![](/img/aistudio/time-series/seasonal-adjustment/workflow.png) ](/img/aistudio/time-series/seasonal-adjustment/workflow.png)
 
 案例中加载“airpassengers”数据集，**“季节性调整”（Seasonal Adjustment）**控件中分解模型选项选择可加模型，属性选择对【Air passengers】属性，案例中控件执行结果如下图所示。   
-[ ![](/img/aistudio/time-series/seasonal-adjustment/workflow-result.png ](/img/aistudio/time-series/seasonal-adjustment/workflow-result.png)
+[ ![](/img/aistudio/time-series/seasonal-adjustment/workflow-result.png) ](/img/aistudio/time-series/seasonal-adjustment/workflow-result.png)

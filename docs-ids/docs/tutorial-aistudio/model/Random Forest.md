@@ -72,4 +72,4 @@
 [ ![](/img/aistudio/model/random-forest/workflow.png) ](/img/aistudio/model/random-forest/workflow.png)
 
 案例中加载“iris”数据集，**“随机森林（Random Forest）”**控件参数使用默认值。案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/model/random-forest/workflow-result.png ](/img/aistudio/model/random-forest/workflow-result.png)
+[ ![](/img/aistudio/model/random-forest/workflow-result.png) ](/img/aistudio/model/random-forest/workflow-result.png)

@@ -48,4 +48,4 @@
 [ ![](/img/aistudio/text-mining/word-enrichment/workflow.png) ](/img/aistudio/text-mining/word-enrichment/workflow.png)
 
 案例中**“加载语料库（Corpus）”**控件加载“book-excerpts”数据集，**“词袋（Bag of Words）”**控件和**“数据抽样（Data Sampler）”**控件采用默认配置。**“文本增强（Word Enrichment）”**控件设置如下：过滤选择 p 值，设置为 0.2。运行结果如下图所示。  
-[ ![](/img/aistudio/text-mining/word-enrichment/workflow-result.png ](/img/aistudio/text-mining/word-enrichment/workflow-result.png)
+[ ![](/img/aistudio/text-mining/word-enrichment/workflow-result.png) ](/img/aistudio/text-mining/word-enrichment/workflow-result.png)

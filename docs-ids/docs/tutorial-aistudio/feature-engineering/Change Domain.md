@@ -60,4 +60,4 @@
 [ ![](/img/aistudio/feature-engineering/change-domain/workflow.png) ](/img/aistudio/feature-engineering/change-domain/workflow.png)
 
 案例中加载 iris 数据集，设置【iris】为文本类型，设置【sepal length】和【sepal width】设置为离散类型。案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/feature-engineering/change-domain/workflow-result.png ](/img/aistudio/feature-engineering/change-domain/workflow-result.png)
+[ ![](/img/aistudio/feature-engineering/change-domain/workflow-result.png) ](/img/aistudio/feature-engineering/change-domain/workflow-result.png)

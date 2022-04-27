@@ -54,4 +54,4 @@
 [ ![](/img/aistudio/preprocess/merge-data/workflow.png) ](/img/aistudio/preprocess/merge-data/workflow.png)
 
 案例中加载 car 以及 wine 数据集，使用“连接表，合并行”的方法合并数据集。案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/preprocess/merge-data/workflow-result.png ](/img/aistudio/preprocess/merge-data/workflow-result.png)
+[ ![](/img/aistudio/preprocess/merge-data/workflow-result.png) ](/img/aistudio/preprocess/merge-data/workflow-result.png)

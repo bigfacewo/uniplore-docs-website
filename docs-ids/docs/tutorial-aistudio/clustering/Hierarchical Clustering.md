@@ -61,4 +61,4 @@
 [ ![](/img/aistudio/clustering/hierarchical-clustering/workflow.png) ](/img/aistudio/clustering/hierarchical-clustering/workflow.png)
 
 案例中加载“Conferences”数据集，案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/clustering/hierarchical-clustering/workflow-result.png ](/img/aistudio/clustering/hierarchical-clustering/workflow-result.png)
+[ ![](/img/aistudio/clustering/hierarchical-clustering/workflow-result.png) ](/img/aistudio/clustering/hierarchical-clustering/workflow-result.png)

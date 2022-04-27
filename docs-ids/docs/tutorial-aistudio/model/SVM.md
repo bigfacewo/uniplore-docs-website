@@ -94,4 +94,4 @@
 [ ![](/img/aistudio/model/svm/workflow.png)   ](/img/aistudio/model/svm/workflow.png)  
 
 案例中加载“iris”数据集，对于**“支持向量机（SVM）”**控件的配置，设置名称为 SVM，选择 v-SVM 类型，内核函数选择 Sigmoid 核，其他使用默认参数。案例中控件的配置及运行结果如下图所示。
-[ ![](/img/aistudio/model/svm/workflow-result.png ](/img/aistudio/model/svm/workflow-result.png)
+[ ![](/img/aistudio/model/svm/workflow-result.png) ](/img/aistudio/model/svm/workflow-result.png)

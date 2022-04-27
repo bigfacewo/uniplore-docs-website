@@ -37,4 +37,4 @@
 [ ![](/img/aistudio/model/constant/workflow.png) ](/img/aistudio/model/constant/workflow.png)
 
 案例中加载“housing”数据集，将分类器命名为 Constant。案例中控件的配置以及执行结果如下图所示。
-[ ![](/img/aistudio/model/constant/workflow-result.png ](/img/aistudio/model/constant/workflow-result.png)
+[ ![](/img/aistudio/model/constant/workflow-result.png) ](/img/aistudio/model/constant/workflow-result.png)

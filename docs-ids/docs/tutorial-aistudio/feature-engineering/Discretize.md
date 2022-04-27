@@ -51,4 +51,4 @@
 [ ![](/img/aistudio/feature-engineering/discretize/workflow.png) ](/img/aistudio/feature-engineering/discretize/workflow.png)
 
 案例中加载 iris 数据集，在进行离散化处理时，默认使用“等宽划分”，“详细配置”时，对【sepal length】属性采用“保留原始数值”的操作，对【sepal width】采用“Entropy-MDL”的方式进行离散化。案例中控件的配置以及执行结果如下图所示。    
-[ ![](/img/aistudio/feature-engineering/discretize/workflow-result.png ](/img/aistudio/feature-engineering/discretize/workflow-result.png)
+[ ![](/img/aistudio/feature-engineering/discretize/workflow-result.png) ](/img/aistudio/feature-engineering/discretize/workflow-result.png)

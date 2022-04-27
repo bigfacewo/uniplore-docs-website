@@ -36,4 +36,4 @@
 [ ![](/img/aistudio/feature-engineering/one-hot-encoder/workflow.png) ](/img/aistudio/feature-engineering/one-hot-encoder/workflow.png)
 
 案例中加载 iris 数据集，选择【iris】属性进行编码。案例中控件的配置以及执行结果如下图所示。    
-[ ![](/img/aistudio/feature-engineering/one-hot-encoder/workflow-result.png ](/img/aistudio/feature-engineering/one-hot-encoder/workflow-result.png)
+[ ![](/img/aistudio/feature-engineering/one-hot-encoder/workflow-result.png) ](/img/aistudio/feature-engineering/one-hot-encoder/workflow-result.png)

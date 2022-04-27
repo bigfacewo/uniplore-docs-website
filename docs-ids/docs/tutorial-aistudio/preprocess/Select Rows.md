@@ -68,4 +68,4 @@
 [ ![](/img/aistudio/preprocess/select-rows/workflow.png) ](/img/aistudio/preprocess/select-rows/workflow.png)
 
 案例中采用 iris 数据集，设定了基于属性【iris】 以及属性【sepal length】的两个条件进行数据过滤。案例中控件的配置以及执行结果如下图所示。    
-[ ![](/img/aistudio/preprocess/select-rows/workflow-result.png ](/img/aistudio/preprocess/select-rows/workflow-result.png)
+[ ![](/img/aistudio/preprocess/select-rows/workflow-result.png) ](/img/aistudio/preprocess/select-rows/workflow-result.png)

@@ -98,4 +98,4 @@ sidebar_position: 1
 ![save-workflow](/img/aistudio/quick-start-tutorial/demo/save-workflow.png)
 
 点击保存按钮后，系统会弹出工作流信息窗口，用户可修改工作流名称并根据需求填写描述（如下图所示）。当填写完成后点击窗口中的“确定”按钮进行保存。  
-[ ![](/img/aistudio/quick-start-tutorial/demo/workflow-info.png ](/img/aistudio/quick-start-tutorial/demo/workflow-info.png)
+[ ![](/img/aistudio/quick-start-tutorial/demo/workflow-info.png) ](/img/aistudio/quick-start-tutorial/demo/workflow-info.png)

@@ -58,4 +58,4 @@
 [ ![](/img/aistudio/clustering/mean-shift/workflow.png) ](/img/aistudio/clustering/mean-shift/workflow.png)
 
 案例中加载“iris”数据集，案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/clustering/mean-shift/workflow-result.png ](/img/aistudio/clustering/mean-shift/workflow-result.png)
+[ ![](/img/aistudio/clustering/mean-shift/workflow-result.png) ](/img/aistudio/clustering/mean-shift/workflow-result.png)

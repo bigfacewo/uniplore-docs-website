@@ -46,4 +46,4 @@
 [ ![](/img/aistudio/network/network-analysis/workflow.png) ](/img/aistudio/network/network-analysis/workflow.png)
 
 案例中全部组件使用默认配置，**网络分析器（Network Analysis）**中勾选图级别目录中的节点数目、边数目、平均度、密度、直径、半径，其对应的数目将在后面展示。案例中组件的配置以及执行结果如下图所示。
-[ ![](/img/aistudio/network/network-analysis/workflow-result.png ](/img/aistudio/network/network-analysis/workflow-result.png)
+[ ![](/img/aistudio/network/network-analysis/workflow-result.png) ](/img/aistudio/network/network-analysis/workflow-result.png)

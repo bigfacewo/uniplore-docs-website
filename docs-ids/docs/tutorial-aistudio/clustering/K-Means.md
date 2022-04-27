@@ -60,4 +60,4 @@
 [ ![](/img/aistudio/clustering/kmeans/workflow.png) ](/img/aistudio/clustering/kmeans/workflow.png)
 
 案例中加载 iris 数据集，k-Means 控件中配置簇数量为“从 2 到 3”，其余使用默认配置。案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/clustering/kmeans/workflow-result.png ](/img/aistudio/clustering/kmeans/workflow-result.png)
+[ ![](/img/aistudio/clustering/kmeans/workflow-result.png) ](/img/aistudio/clustering/kmeans/workflow-result.png)

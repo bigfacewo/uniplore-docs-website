@@ -56,4 +56,4 @@
 [ ![](/img/aistudio/tool/note/workflow.png) ](/img/aistudio/tool/note/workflow.png)
 
 修改**“便签（Note）”**控件背景颜色为R(2),G(109),B(247)，边框颜色为R(226),G(97),B(54)，边宽宽度为2，编写便签内容，案例中控件的配置及执行结果如下图所示。  
-[ ![](/img/aistudio/tool/note/workflow-result.png ](/img/aistudio/tool/note/workflow-result.png)
+[ ![](/img/aistudio/tool/note/workflow-result.png) ](/img/aistudio/tool/note/workflow-result.png)

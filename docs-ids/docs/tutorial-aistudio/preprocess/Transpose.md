@@ -39,4 +39,4 @@
 [ ![](/img/aistudio/preprocess/transpose/workflow.png) ](/img/aistudio/preprocess/transpose/workflow.png)
 
 案例中加载 iris 数据集，在进行数据转置时，采用一般命名方式对转置后的数据集的属性进行命名。案例中控件的配置以及执行结果如下图所示。    
-[ ![](/img/aistudio/preprocess/transpose/workflow-result.png ](/img/aistudio/preprocess/transpose/workflow-result.png)
+[ ![](/img/aistudio/preprocess/transpose/workflow-result.png) ](/img/aistudio/preprocess/transpose/workflow-result.png)

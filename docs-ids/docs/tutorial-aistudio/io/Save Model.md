@@ -37,4 +37,4 @@
 [ ![](/img/aistudio/io/save-model/workflow.png) ](/img/aistudio/io/save-model/workflow.png)
 
 案例中加载 titanic 数据集。**“决策树”（Tree）**控件采用默认配置。构建好的模型保存为 titanic-tree-model.pkcls 文件。案例中控件的配置及运行结果如下图所示。
-[ ![](/img/aistudio/io/save-model/workflow-result.png ](/img/aistudio/io/save-model/workflow-result.png)
+[ ![](/img/aistudio/io/save-model/workflow-result.png) ](/img/aistudio/io/save-model/workflow-result.png)

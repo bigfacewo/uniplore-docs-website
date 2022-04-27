@@ -47,4 +47,4 @@
 [ ![](/img/aistudio/visualize/sieve-diagram/workflow.png) ](/img/aistudio/visualize/sieve-diagram/workflow.png)
 
 案例中加载“iris”数据集，运行**“筛图（Sieve Diagram）”**后，案例中控件的配置以及执行结果如下图所示。
-[ ![](/img/aistudio/visualize/sieve-diagram/workflow-result.png ](/img/aistudio/visualize/sieve-diagram/workflow-result.png)
+[ ![](/img/aistudio/visualize/sieve-diagram/workflow-result.png) ](/img/aistudio/visualize/sieve-diagram/workflow-result.png)

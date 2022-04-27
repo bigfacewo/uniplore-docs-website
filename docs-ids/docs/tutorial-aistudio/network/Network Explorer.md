@@ -95,4 +95,4 @@
 [ ![](/img/aistudio/network/network-explorer/workflow.png) ](/img/aistudio/network/network-explorer/workflow.png)
 
 案例中全部组件使用默认配置。案例中组件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/network/network-explorer/workflow-result.png ](/img/aistudio/network/network-explorer/workflow-result.png)
+[ ![](/img/aistudio/network/network-explorer/workflow-result.png) ](/img/aistudio/network/network-explorer/workflow-result.png)

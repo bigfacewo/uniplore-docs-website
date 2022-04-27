@@ -53,4 +53,4 @@
 [ ![](/img/aistudio/model/logistic-regression/workflow.png) ](/img/aistudio/model/logistic-regression/workflow.png)
 
 案例中加载“iris”数据集，其余参数使用默认值。在构建模型时，**“逻辑回归（Logistic Regression）”**控件选用 岭回归Ridge（L2）正则化方法，并且设置惩罚力度 C=1。之后基于已经构建的 Logistic Regression 模型对数据集进行预测。案例中控件的配置以及运行结果如下图所示。
-[ ![](/img/aistudio/model/logistic-regression/workflow-result.png ](/img/aistudio/model/logistic-regression/workflow-result.png)
+[ ![](/img/aistudio/model/logistic-regression/workflow-result.png) ](/img/aistudio/model/logistic-regression/workflow-result.png)

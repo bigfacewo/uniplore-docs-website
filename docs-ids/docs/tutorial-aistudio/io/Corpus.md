@@ -51,4 +51,4 @@
 [ ![](/img/aistudio/io/corpus/workflow.png) ](/img/aistudio/io/corpus/workflow.png)
 
 案例中加载 andersen 样例数据集，案例中控件执行结果如下图所示：  
-[ ![](/img/aistudio/io/corpus/workflow-result.png ](/img/aistudio/io/corpus/workflow-result.png)
+[ ![](/img/aistudio/io/corpus/workflow-result.png) ](/img/aistudio/io/corpus/workflow-result.png)

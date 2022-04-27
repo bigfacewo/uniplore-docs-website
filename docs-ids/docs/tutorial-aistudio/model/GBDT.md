@@ -73,4 +73,4 @@
 [ ![](/img/aistudio/model/gbdt/workflow.png) ](/img/aistudio/model/gbdt/workflow.png)
 
 案例中加载“iris”数据集，**“梯度提升决策树（Gradient Boosting Decision Tree）”**控件参数使用默认值。案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/model/gbdt/workflow-result.png ](/img/aistudio/model/gbdt/workflow-result.png)
+[ ![](/img/aistudio/model/gbdt/workflow-result.png) ](/img/aistudio/model/gbdt/workflow-result.png)

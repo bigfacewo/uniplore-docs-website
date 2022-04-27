@@ -75,4 +75,4 @@
 [ ![](/img/aistudio/model/cn2-rule-induction/workflow.png) ](/img/aistudio/model/cn2-rule-induction/workflow.png)
 
 案例中加载“iris”数据集，其余参数使用默认值。案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/model/cn2-rule-induction/workflow-result.png ](/img/aistudio/model/cn2-rule-induction/workflow-result.png)
+[ ![](/img/aistudio/model/cn2-rule-induction/workflow-result.png) ](/img/aistudio/model/cn2-rule-induction/workflow-result.png)

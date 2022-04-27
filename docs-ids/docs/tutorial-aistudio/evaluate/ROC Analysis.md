@@ -73,4 +73,4 @@
 [ ![](/img/aistudio/evaluate/roc-analysis/workflow.png) ](/img/aistudio/evaluate/roc-analysis/workflow.png)
 
 案例中加载 voting 数据集，针对**“K近邻”（KNN）**、**“决策树”（Tree）**算法进行模型测试和评估，**“评分和测试”（Test & Score）**显示每个分类器的评估结果。然后根据**“评分和测试”（Test & Score）**的结果ROC曲线。案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/evaluate/roc-analysis/workflow-result.png ](/img/aistudio/evaluate/roc-analysis/workflow-result.png)
+[ ![](/img/aistudio/evaluate/roc-analysis/workflow-result.png) ](/img/aistudio/evaluate/roc-analysis/workflow-result.png)

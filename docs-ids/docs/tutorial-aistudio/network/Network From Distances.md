@@ -111,4 +111,4 @@
 [ ![](/img/aistudio/network/network-from-distances/workflow.png) ](/img/aistudio/network/network-from-distances/workflow.png)
 
 案例中加载 conferences 样例数据集，其余控件使用默认参数，案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/network/network-from-distances/workflow-result.png ](/img/aistudio/network/network-from-distances/workflow-result.png)
+[ ![](/img/aistudio/network/network-from-distances/workflow-result.png) ](/img/aistudio/network/network-from-distances/workflow-result.png)

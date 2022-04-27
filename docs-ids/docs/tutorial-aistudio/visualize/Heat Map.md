@@ -59,4 +59,4 @@
 [ ![](/img/aistudio/visualize/heat-map/workflow.png) ](/img/aistudio/visualize/heat-map/workflow.png)
 
 案例中加载“iris”数据集，运行**“热力图（Heat Map）”**后，勾选根据k-means进行合并，其余使用默认参数。案例中控件的配置以及执行结果如下图所示。
-[ ![](/img/aistudio/visualize/heat-map/workflow-result.png ](/img/aistudio/visualize/heat-map/workflow-result.png)
+[ ![](/img/aistudio/visualize/heat-map/workflow-result.png) ](/img/aistudio/visualize/heat-map/workflow-result.png)

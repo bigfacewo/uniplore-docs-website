@@ -46,4 +46,4 @@
 [ ![](/img/aistudio/visualize/box-plot/workflow.png) ](/img/aistudio/visualize/box-plot/workflow.png)
 
 案例中加载“iris”数据集，运行**“箱型图（Box Plot）”**后，分组属性选择【iris】。案例中控件的配置以及执行结果如下图所示。
-[ ![](/img/aistudio/visualize/box-plot/workflow-result.png ](/img/aistudio/visualize/box-plot/workflow-result.png)
+[ ![](/img/aistudio/visualize/box-plot/workflow-result.png) ](/img/aistudio/visualize/box-plot/workflow-result.png)

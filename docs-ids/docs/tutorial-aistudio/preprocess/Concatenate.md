@@ -44,4 +44,4 @@
 [ ![](/img/aistudio/preprocess/concatenate/workflow.png) ](/img/aistudio/preprocess/concatenate/workflow.png)
 
 案例中加载 bridges.mt1 数据集，其中一个数据集大小为 108（该数据集作为 prm 输入），另一个加载 bridges.mt2 数据集，数据集大小为 108，之后连接两个数据集，并追加数据集标识字段。案例中控件的配置以及执行结果如下图所示。  
-[ ![](/img/aistudio/preprocess/concatenate/workflow-result.png ](/img/aistudio/preprocess/concatenate/workflow-result.png)
+[ ![](/img/aistudio/preprocess/concatenate/workflow-result.png) ](/img/aistudio/preprocess/concatenate/workflow-result.png)

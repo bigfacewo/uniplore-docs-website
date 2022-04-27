@@ -53,4 +53,4 @@
 [ ![](/img/aistudio/preprocess/impute/workflow.png) ](/img/aistudio/preprocess/impute/workflow.png)
 
 案例中加载 bridges 数据集，全局填补方案选择“不填补”，打开详细配置页面，对于【LENGTH】属性指定“随机值”方法填充缺失值。案例中控件的配置以及执行结果如下图所示。      
-[ ![](/img/aistudio/preprocess/impute/workflow-result.png ](/img/aistudio/preprocess/impute/workflow-result.png)
+[ ![](/img/aistudio/preprocess/impute/workflow-result.png) ](/img/aistudio/preprocess/impute/workflow-result.png)

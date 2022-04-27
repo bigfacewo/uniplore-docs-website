@@ -76,4 +76,4 @@
 [ ![](/img/aistudio/time-series/arima-model/workflow.png) ](/img/aistudio/time-series/arima-model/workflow.png)
 
 案例中加载 airpassengers 数据集，其余控件使用默认参数，案例中控件的配置以及执行结果如下图所示。   
-[ ![](/img/aistudio/time-series/arima-model/workflow-result.png ](/img/aistudio/time-series/arima-model/workflow-result.png)
+[ ![](/img/aistudio/time-series/arima-model/workflow-result.png) ](/img/aistudio/time-series/arima-model/workflow-result.png)

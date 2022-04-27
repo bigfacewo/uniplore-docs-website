@@ -43,4 +43,4 @@
 [ ![](/img/aistudio/time-series/as-timeseries/workflow.png) ](/img/aistudio/time-series/as-timeseries/workflow.png)
 
 案例中加载 iris 数据集，对于**转换时间序列（As Timeseries）**控件，选择排序属性为【sepal length】，案例中控件的配置以及执行结果如下图所示。   
-[ ![](/img/aistudio/time-series/as-timeseries/workflow-result.png ](/img/aistudio/time-series/as-timeseries/workflow-result.png)
+[ ![](/img/aistudio/time-series/as-timeseries/workflow-result.png) ](/img/aistudio/time-series/as-timeseries/workflow-result.png)
