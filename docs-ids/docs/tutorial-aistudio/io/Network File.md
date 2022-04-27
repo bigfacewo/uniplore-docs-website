@@ -48,5 +48,8 @@
 </table>
 
 ### 使用案例
-在下图所示的案例中，使用**“加载网络文件”（Network File）**组件加载数据，同时连接**“数据信息”（Data Info）**以及**“网络查看器”（Network Explorer）**组件查看数据信息以及图信息并进行展示。  
+在下图所示的案例中，使用**“加载网络文件”（Network File）**组件加载数据，同时连接**“网络查看器”（Network Explorer）**组件查看图信息。  
 ![workflow](/img/aistudio/io/network-file/workflow.png)
+
+案例中加载 **airtraffic** 图文件（[airtraffic.net](/sample-file/aistudio/io/network-file/airtraffic.net)，[airtraffic_item.tab](/sample-file/aistudio/io/network-file/airtraffic_items.tab)），其余使用默认配置。案例中控件的配置以及执行结果如下图所示。  
+![workflow-result](/img/aistudio/io/network-file/workflow-result.png)

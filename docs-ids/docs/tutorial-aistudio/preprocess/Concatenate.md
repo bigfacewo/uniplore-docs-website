@@ -43,5 +43,5 @@
 在下图所示的案例中，使用两个**“加载文件”（File）**控件加载分割后的数据集，通过**“查看数据”（Data Table）**控件查看加载数据的信息，同时使用**“数据连接”（Concatenate）**控件连接数据集，之后通过**“查看数据”（Data Table）**控件查看连接后的数据集。  
 ![workflow](/img/aistudio/preprocess/concatenate/workflow.png)
 
-案例中加载 car 以及 wine 数据集，使用“连接表，合并行”的方法合并数据集。案例中控件的配置以及执行结果如下图所示。  
+案例中加载 bridges.mt1 数据集，其中一个数据集大小为 108（该数据集作为 prm 输入），另一个加载 bridges.mt2 数据集，数据集大小为 108，之后连接两个数据集，并追加数据集标识字段。案例中控件的配置以及执行结果如下图所示。  
 ![workflow-result](/img/aistudio/preprocess/concatenate/workflow-result.png)
