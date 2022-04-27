@@ -40,7 +40,8 @@
 
 ### 格兰杰因果检验结果
 点击**“查看结果”**按钮，查看格兰杰因果检验结果：  
- 
+![visualization](/img/aistudio/time-series/granger-causality/visualization.png)
+
 
 <table>
   <tr>
