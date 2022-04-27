@@ -37,5 +37,13 @@
 如下图所示的工作流中，使用**“加载数据集（File）”**控件加载iris数据，使**“Python脚本（Python Script）”**控件执行 Python 脚本代码，连接**“查看数据（Data Table）”**控件查看处理后的数据。  
 [ ![](/img/aistudio/tool/python-script/workflow.png) ](/img/aistudio/tool/python-script/workflow.png)
 
-案例中加载“iris”数据集，**“Python脚本（Python Script）”**控件在python代码中输入如图所示的代码，代码功能为为输入数据集添加一个特征属性x，值均为1。案例中控件的配置及执行结果如下图所示。  
+案例中加载“iris”数据集，**“Python脚本（Python Script）”**控件在python代码中输入示例代码，代码功能为为输入数据集添加一个特征属性x，值均为1。案例中控件的配置及执行结果如下图所示。  
+```python
+# python代码
+in1.data["x"] = 1
+in1.domain.attributes.append("x")
+in1.domain.refresh()
+print(in1.data)
+out1 = in1
+```
 [ ![](/img/aistudio/tool/python-script/workflow-result.png) ](/img/aistudio/tool/python-script/workflow-result.png)
