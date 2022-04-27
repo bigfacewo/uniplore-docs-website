@@ -12,7 +12,7 @@
 
 ### 页面介绍
 点击**“决策树查看器（Tree Viewer）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/visualize/tree-viewer/param.png)
+[ ![](/img/aistudio/visualize/tree-viewer/param.png) ](/img/aistudio/visualize/tree-viewer/param.png)
 
 点击**“查看结果”**按钮，查看数据集详情：  
 [![](/img/aistudio/visualize/tree-viewer/visualization.png)](/img/aistudio/visualize/tree-viewer/visualization.png)
@@ -66,7 +66,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件（File）”**控件加载数据集，接着使用**“决策树（Tree）”**控件训练决策树模型，最后使用**“决策树查看器（Tree Viewer）”**控件查看模型。  
-![workflow](/img/aistudio/visualize/tree-viewer/workflow.png)
+[ ![](/img/aistudio/visualize/tree-viewer/workflow.png) ](/img/aistudio/visualize/tree-viewer/workflow.png)
 
 案例中加载“iris”数据集，**“决策树（Tree）”**控件使用默认配置，**“决策树查看器（Tree Viewer）”**控件中深度选项选择不限。案例中控件的配置以及执行结果如下图所示。  
 [![](/img/aistudio/visualize/tree-viewer/workflow-result.png)](/img/aistudio/visualize/tree-viewer/workflow-result.png)

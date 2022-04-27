@@ -12,7 +12,7 @@
 
 ### 页面介绍
 点击**“Python脚本（Python Script）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/tool/python-script/param.png)
+[ ![](/img/aistudio/tool/python-script/param.png) ](/img/aistudio/tool/python-script/param.png)
 
 #### 参数选项
 <table>
@@ -35,7 +35,7 @@
 
 ### 使用案例
 如下图所示的工作流中，使用**“加载数据集（File）”**控件加载iris数据，使**“Python脚本（Python Script）”**控件执行 Python 脚本代码，连接**“查看数据（Data Table）”**控件查看处理后的数据。  
-![workflow](/img/aistudio/tool/python-script/workflow.png)
+[ ![](/img/aistudio/tool/python-script/workflow.png) ](/img/aistudio/tool/python-script/workflow.png)
 
 案例中加载“iris”数据集，**“Python脚本（Python Script）”**控件在python代码中输入如图所示的代码，代码功能为为输入数据集添加一个特征属性x，值均为1。案例中控件的配置及执行结果如下图所示。  
-![workflow-result](/img/aistudio/tool/python-script/workflow-result.png)
+[ ![](/img/aistudio/tool/python-script/workflow-result.png) ](/img/aistudio/tool/python-script/workflow-result.png)

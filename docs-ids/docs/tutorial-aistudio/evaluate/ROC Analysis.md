@@ -13,10 +13,10 @@
 
 ### 页面介绍
 点击**“ROC曲线”（ROC Analysis）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/evaluate/roc-analysis/param.png)
+[ ![](/img/aistudio/evaluate/roc-analysis/param.png) ](/img/aistudio/evaluate/roc-analysis/param.png)
 
 点击**“查看结果”**按钮，查看曲线：
-![visualization](/img/aistudio/evaluate/roc-analysis/visualization.png)
+[ ![](/img/aistudio/evaluate/roc-analysis/visualization.png) ](/img/aistudio/evaluate/roc-analysis/visualization.png)
 
 #### 参数选项
 <table>
@@ -70,7 +70,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，使用**“K近邻”（KNN）**、**“决策树”（Tree）**等模型在**“评分和测试”（Test & Score）**控件中进行测试和评估，最后将评估结果在**“ROC曲线”（ROC Analysis）**控件中进行展示。   
-![workflow](/img/aistudio/evaluate/roc-analysis/workflow.png)
+[ ![](/img/aistudio/evaluate/roc-analysis/workflow.png) ](/img/aistudio/evaluate/roc-analysis/workflow.png)
 
 案例中加载 voting 数据集，针对**“K近邻”（KNN）**、**“决策树”（Tree）**算法进行模型测试和评估，**“评分和测试”（Test & Score）**显示每个分类器的评估结果。然后根据**“评分和测试”（Test & Score）**的结果ROC曲线。案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/evaluate/roc-analysis/workflow-result.png)
+[ ![](/img/aistudio/evaluate/roc-analysis/workflow-result.png) ](/img/aistudio/evaluate/roc-analysis/workflow-result.png)

@@ -17,10 +17,10 @@
 
 ### 页面介绍
 点击**“评分和测试”（Test & Score）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/evaluate/test-and-score/param.png)
+[ ![](/img/aistudio/evaluate/test-and-score/param.png) ](/img/aistudio/evaluate/test-and-score/param.png)
 
 点击**“查看数据”**按钮，查看详细的模型评分：  
-![interaction](/img/aistudio/evaluate/test-and-score/interaction.png)
+[ ![](/img/aistudio/evaluate/test-and-score/interaction.png) ](/img/aistudio/evaluate/test-and-score/interaction.png)
 
 #### 参数选项
 <table>
@@ -60,7 +60,7 @@
 ### 模型信息标签
 
 模型信息标签页展示了工作流中的模型组件的参数信息，展示页面如下图所示。  
-![model-info](/img/aistudio/evaluate/test-and-score/model-info.png)
+[ ![](/img/aistudio/evaluate/test-and-score/model-info.png) ](/img/aistudio/evaluate/test-and-score/model-info.png)
 
 #### 信息选项
 <table>
@@ -87,7 +87,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，针对**“K近邻”（KNN）**、**“决策树”（Tree）**等算法进行测试和评估。   
-![workflow](/img/aistudio/evaluate/test-and-score/workflow.png)
+[ ![](/img/aistudio/evaluate/test-and-score/workflow.png) ](/img/aistudio/evaluate/test-and-score/workflow.png)
 
 案例中加载 iris 数据集，案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/evaluate/test-and-score/workflow-result.png)
+[ ![](/img/aistudio/evaluate/test-and-score/workflow-result.png) ](/img/aistudio/evaluate/test-and-score/workflow-result.png)

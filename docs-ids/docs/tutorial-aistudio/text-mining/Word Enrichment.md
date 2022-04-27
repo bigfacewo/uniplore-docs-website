@@ -11,10 +11,10 @@
 
 ### 页面介绍
 点击**“文本增强（Word Enrichment）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/text-mining/word-enrichment/param.png)
+[ ![](/img/aistudio/text-mining/word-enrichment/param.png) ](/img/aistudio/text-mining/word-enrichment/param.png)
 
 点击“查看结果”按钮，查看分析结果：  
-![visualization](/img/aistudio/text-mining/word-enrichment/visualization.png)
+[ ![](/img/aistudio/text-mining/word-enrichment/visualization.png) ](/img/aistudio/text-mining/word-enrichment/visualization.png)
 
 #### 参数选项
 <table>
@@ -45,7 +45,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载语料库（Corpus）”**控件连接**“词袋（Bag of Words）”**控件，使用**“数据抽样（Data Sampler）”**连接**“词袋（Bag of Words）”**控件，使用 **“数据抽样（Data Sampler）”**的输出smp、rmn分别连接**“文本增强（Word Enrichment）”**控件的sel、cor输入，  
-![workflow](/img/aistudio/text-mining/word-enrichment/workflow.png)
+[ ![](/img/aistudio/text-mining/word-enrichment/workflow.png) ](/img/aistudio/text-mining/word-enrichment/workflow.png)
 
 案例中**“加载语料库（Corpus）”**控件加载“book-excerpts”数据集，**“词袋（Bag of Words）”**控件和**“数据抽样（Data Sampler）”**控件采用默认配置。**“文本增强（Word Enrichment）”**控件设置如下：过滤选择 p 值，设置为 0.2。运行结果如下图所示。  
-![workflow-result](/img/aistudio/text-mining/word-enrichment/workflow-result.png)
+[ ![](/img/aistudio/text-mining/word-enrichment/workflow-result.png) ](/img/aistudio/text-mining/word-enrichment/workflow-result.png)

@@ -12,10 +12,10 @@
 
 ### 页面介绍
 点击**“热力图（Heat Map）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/visualize/heat-map/param.png)
+[ ![](/img/aistudio/visualize/heat-map/param.png) ](/img/aistudio/visualize/heat-map/param.png)
 
 点击**“查看结果”**按钮，查看数据集详情：  
-![visualization](/img/aistudio/visualize/heat-map/visualization.png)
+[ ![](/img/aistudio/visualize/heat-map/visualization.png) ](/img/aistudio/visualize/heat-map/visualization.png)
 
 #### 参数选项
 <table>
@@ -56,7 +56,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件（File）”**控件加载数据集，接着使用**“热力图（Heat Map）”**控件绘制热力图。  
-![workflow](/img/aistudio/visualize/heat-map/workflow.png)
+[ ![](/img/aistudio/visualize/heat-map/workflow.png) ](/img/aistudio/visualize/heat-map/workflow.png)
 
 案例中加载“iris”数据集，运行**“热力图（Heat Map）”**后，勾选根据k-means进行合并，其余使用默认参数。案例中控件的配置以及执行结果如下图所示。
-![workflow-result](/img/aistudio/visualize/heat-map/workflow-result.png)
+[ ![](/img/aistudio/visualize/heat-map/workflow-result.png) ](/img/aistudio/visualize/heat-map/workflow-result.png)

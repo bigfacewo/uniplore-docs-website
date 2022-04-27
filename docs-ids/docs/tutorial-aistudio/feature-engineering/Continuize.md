@@ -13,7 +13,7 @@
 
 ### 页面介绍
 点击**“连续化”（Continuize）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/feature-engineering/continuize/param.png)
+[ ![](/img/aistudio/feature-engineering/continuize/param.png) ](/img/aistudio/feature-engineering/continuize/param.png)
 
 #### 参数选项
 <table>
@@ -69,7 +69,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，通过**“查看数据”（Data Table）**控件查看加载数据的信息，同时使用**“连续化”（Continuize）**控件对数据集进行连续化处理，之后通过**“查看数据”（Data Table）**控件查看处理后的数据集。   
-![workflow](/img/aistudio/feature-engineering/continuize/workflow.png)
+[ ![](/img/aistudio/feature-engineering/continuize/workflow.png) ](/img/aistudio/feature-engineering/continuize/workflow.png)
 
 案例中加载 titanic 数据集，在进行连续化处理时，对多值离散属性采用“以目标/第一个取值为基础”的方式进行连续化处理，对连续型属性采用“保持不变”的处理方式，对离散分类属性采用“每个取值一个属性”的方式进行连续化处理，取值范围选取为 0-1。案例中控件的配置以及执行结果如下图所示。    
-![workflow-result](/img/aistudio/feature-engineering/continuize/workflow-result.png)
+[ ![](/img/aistudio/feature-engineering/continuize/workflow-result.png) ](/img/aistudio/feature-engineering/continuize/workflow-result.png)

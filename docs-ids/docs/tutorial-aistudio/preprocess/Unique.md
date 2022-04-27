@@ -13,7 +13,7 @@
 
 ### 页面介绍
 点击**“去重”（Unique）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/preprocess/unique/param.png)
+[ ![](/img/aistudio/preprocess/unique/param.png) ](/img/aistudio/preprocess/unique/param.png)
 
 
 #### 参数选项
@@ -44,7 +44,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，通过**“查看数据”（Data Table）**控件查看加载数据的信息，同时使用**“去重”（Unique）**控件对数据集进行去重操作，之后通过**“查看数据”（Data Table）**控件查看处理后的数据集。   
-![workflow](/img/aistudio/preprocess/unique/workflow.png)
+[ ![](/img/aistudio/preprocess/unique/workflow.png) ](/img/aistudio/preprocess/unique/workflow.png)
 
 案例中加载 iris 数据集，其余控件使用默认参数配置。案例中控件的配置以及执行结果如下图所示。      
-![workflow-result](/img/aistudio/preprocess/unique/workflow-result.png)
+[ ![](/img/aistudio/preprocess/unique/workflow-result.png) ](/img/aistudio/preprocess/unique/workflow-result.png)

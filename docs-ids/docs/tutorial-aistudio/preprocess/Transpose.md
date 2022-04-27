@@ -13,7 +13,7 @@
 
 ### 页面介绍
 点击**“转置”（Transpose）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/preprocess/transpose/param.png)
+[ ![](/img/aistudio/preprocess/transpose/param.png) ](/img/aistudio/preprocess/transpose/param.png)
 
 
 #### 参数选项
@@ -36,7 +36,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，通过**“查看数据”（Data Table）**控件查看加载数据的信息，同时使用**“转置”（Transpose）**控件对数据集进行转置操作，之后通过**“查看数据”（Data Table）**控件查看处理后的数据集。   
-![workflow](/img/aistudio/preprocess/transpose/workflow.png)
+[ ![](/img/aistudio/preprocess/transpose/workflow.png) ](/img/aistudio/preprocess/transpose/workflow.png)
 
 案例中加载 iris 数据集，在进行数据转置时，采用一般命名方式对转置后的数据集的属性进行命名。案例中控件的配置以及执行结果如下图所示。    
-![workflow-result](/img/aistudio/preprocess/transpose/workflow-result.png)
+[ ![](/img/aistudio/preprocess/transpose/workflow-result.png) ](/img/aistudio/preprocess/transpose/workflow-result.png)

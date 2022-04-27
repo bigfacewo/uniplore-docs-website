@@ -14,7 +14,7 @@
 
 ### 页面介绍
 点击**“随机森林（Random Forest）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/model/random-forest/param.png)
+[ ![](/img/aistudio/model/random-forest/param.png) ](/img/aistudio/model/random-forest/param.png)
 
 #### 参数选项
 <table>
@@ -69,7 +69,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件（File）”**控件加载数据集，连接**“随机森林（Random Forest）”**控件构建模型，之后把**“加载文件（File）”**控件以及**“随机森林（Random Forest）”**控件与**“预测（Predictions）”**控件连接起来查看预测的结果。  
-![workflow](/img/aistudio/model/random-forest/workflow.png)
+[ ![](/img/aistudio/model/random-forest/workflow.png) ](/img/aistudio/model/random-forest/workflow.png)
 
 案例中加载“iris”数据集，**“随机森林（Random Forest）”**控件参数使用默认值。案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/model/random-forest/workflow-result.png)
+[ ![](/img/aistudio/model/random-forest/workflow-result.png) ](/img/aistudio/model/random-forest/workflow-result.png)

@@ -15,10 +15,10 @@
 
 ### 页面介绍
 点击**“距离转换网络”（Network From Distances）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/network/network-from-distances/param.png)
+[ ![](/img/aistudio/network/network-from-distances/param.png) ](/img/aistudio/network/network-from-distances/param.png)
 
 点击“查看直方图”按钮，查看直方图信息：  
-![interaction](/img/aistudio/network/network-from-distances/interaction.png)
+[ ![](/img/aistudio/network/network-from-distances/interaction.png) ](/img/aistudio/network/network-from-distances/interaction.png)
 
 #### 参数选项
 <table>
@@ -108,7 +108,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载距离文件”（Distance File）**控件加载数据，使用**“距离转换网络”（Network From Distances）**控件把距离矩阵转换为网络，之后使用**“网络查看器”（Network Explorer）**控件查看生成的网络。  
-![workflow](/img/aistudio/network/network-from-distances/workflow.png)
+[ ![](/img/aistudio/network/network-from-distances/workflow.png) ](/img/aistudio/network/network-from-distances/workflow.png)
 
 案例中加载 conferences 样例数据集，其余控件使用默认参数，案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/network/network-from-distances/workflow-result.png)
+[ ![](/img/aistudio/network/network-from-distances/workflow-result.png) ](/img/aistudio/network/network-from-distances/workflow-result.png)

@@ -15,10 +15,10 @@
 
 ### 页面介绍
 点击**“属性排名”（Rank）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/feature-engineering/rank/param.png)
+[ ![](/img/aistudio/feature-engineering/rank/param.png) ](/img/aistudio/feature-engineering/rank/param.png)
 
 点击**“详细配置”**按钮，可查看各属性排名：
-![interaction](/img/aistudio/feature-engineering/rank/interaction.png)
+[ ![](/img/aistudio/feature-engineering/rank/interaction.png) ](/img/aistudio/feature-engineering/rank/interaction.png)
 
 #### 参数选项
 <table>
@@ -60,7 +60,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，通过**“查看数据”（Data Table）**控件查看加载数据的信息，同时使用**“属性排名”（Rank）**控件查看各属性的评分并选择需要的属性，之后通过**“查看数据”（Data Table）**控件查看处理后的数据集以及各属性评分。   
-![workflow](/img/aistudio/feature-engineering/rank/workflow.png)
+[ ![](/img/aistudio/feature-engineering/rank/workflow.png) ](/img/aistudio/feature-engineering/rank/workflow.png)
 
 案例中加载 iris 数据集，选择属性【sepal length】和属性【petal length】。案例中控件的配置以及执行结果如下图所示。    
-![workflow-result](/img/aistudio/feature-engineering/rank/workflow-result.png)
+[ ![](/img/aistudio/feature-engineering/rank/workflow-result.png) ](/img/aistudio/feature-engineering/rank/workflow-result.png)

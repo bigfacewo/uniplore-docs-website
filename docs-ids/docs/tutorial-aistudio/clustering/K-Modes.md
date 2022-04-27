@@ -14,7 +14,7 @@
 
 ### 页面介绍
 点击**“K-Modes”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/clustering/kmodes/param.png)
+[ ![](/img/aistudio/clustering/kmodes/param.png) ](/img/aistudio/clustering/kmodes/param.png)
 
 #### 参数选项
 <table>
@@ -41,7 +41,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据集，**连接**“K-Modes”**控件进行聚类，之后连接**“查看数据”（Data Table）**控件查看聚类结果。  
-![workflow](/img/aistudio/clustering/kmodes/workflow.png)
+[ ![](/img/aistudio/clustering/kmodes/workflow.png) ](/img/aistudio/clustering/kmodes/workflow.png)
 
 案例中加载“iris”数据集，案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/clustering/kmodes/workflow-result.png)
+[ ![](/img/aistudio/clustering/kmodes/workflow-result.png) ](/img/aistudio/clustering/kmodes/workflow-result.png)

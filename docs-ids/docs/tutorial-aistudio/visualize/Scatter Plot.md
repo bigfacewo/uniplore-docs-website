@@ -12,10 +12,10 @@
 
 ### 页面介绍
 点击**“散点图（Scatter Plot）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/visualize/scatter-plot/param.png)
+[ ![](/img/aistudio/visualize/scatter-plot/param.png) ](/img/aistudio/visualize/scatter-plot/param.png)
 
 点击**“查看结果”**按钮，查看数据集详情：  
-![visualization](/img/aistudio/visualize/scatter-plot/visualization.png)
+[ ![](/img/aistudio/visualize/scatter-plot/visualization.png) ](/img/aistudio/visualize/scatter-plot/visualization.png)
 
 #### 参数选项
 <table>
@@ -91,7 +91,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件（File）”**控件加载数据集，接着使用**“散点图（Scatter Plot）”**控件绘制散点图。  
-![workflow](/img/aistudio/visualize/scatter-plot/workflow.png)
+[ ![](/img/aistudio/visualize/scatter-plot/workflow.png) ](/img/aistudio/visualize/scatter-plot/workflow.png)
 
 案例中加载“iris”数据集，运行**“散点图（Scatter Plot）”**后，颜色属性选择【iris】，勾选显示网格线选项。案例中控件的配置以及执行结果如下图所示。
 [![](/img/aistudio/visualize/scatter-plot/workflow-result.png)](/img/aistudio/visualize/scatter-plot/workflow-result.png)

@@ -15,7 +15,7 @@
 
 ### 页面介绍
 点击**“加载网络文件”（Network File）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/io/network-file/param.png)
+[ ![](/img/aistudio/io/network-file/param.png) ](/img/aistudio/io/network-file/param.png)
 
 #### 参数选项
 <table>
@@ -49,7 +49,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载网络文件”（Network File）**组件加载数据，同时连接**“网络查看器”（Network Explorer）**组件查看图信息。  
-![workflow](/img/aistudio/io/network-file/workflow.png)
+[ ![](/img/aistudio/io/network-file/workflow.png) ](/img/aistudio/io/network-file/workflow.png)
 
 案例中加载 **airtraffic** 图文件（[airtraffic.net](/sample-file/aistudio/io/network-file/airtraffic.net)，[airtraffic_item.tab](/sample-file/aistudio/io/network-file/airtraffic_items.tab)），其余使用默认配置。案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/io/network-file/workflow-result.png)
+[ ![](/img/aistudio/io/network-file/workflow-result.png) ](/img/aistudio/io/network-file/workflow-result.png)

@@ -17,7 +17,7 @@
 
 ### 页面介绍
 点击**“ARIMA模型”（ARIMA Model）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/time-series/arima-model/param.png)
+[ ![](/img/aistudio/time-series/arima-model/param.png) ](/img/aistudio/time-series/arima-model/param.png)
 
 #### 参数选项
 <table>
@@ -73,7 +73,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，连接**“ARIMA模型”（ARIMA Model）**控件构建时序模型，之后使用**“查看数据”（Data Table）**控件查看预测结果。  
-![workflow](/img/aistudio/time-series/arima-model/workflow.png)
+[ ![](/img/aistudio/time-series/arima-model/workflow.png) ](/img/aistudio/time-series/arima-model/workflow.png)
 
 案例中加载 airpassengers 数据集，其余控件使用默认参数，案例中控件的配置以及执行结果如下图所示。   
-![workflow-result](/img/aistudio/time-series/arima-model/workflow-result.png)
+[ ![](/img/aistudio/time-series/arima-model/workflow-result.png) ](/img/aistudio/time-series/arima-model/workflow-result.png)

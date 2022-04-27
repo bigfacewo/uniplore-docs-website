@@ -15,10 +15,10 @@
 
 ### 页面介绍
 点击**“预测”（Predictions）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/evaluate/predictions/param.png)
+[ ![](/img/aistudio/evaluate/predictions/param.png) ](/img/aistudio/evaluate/predictions/param.png)
 
 点击**“查看预测结果”**按钮，查看模型预测结果：  
-![interaction](/img/aistudio/evaluate/predictions/interaction.png)
+[ ![](/img/aistudio/evaluate/predictions/interaction.png) ](/img/aistudio/evaluate/predictions/interaction.png)
 
 #### 参数选项
 <table>
@@ -49,7 +49,7 @@
 ### 模型信息标签
 
 模型信息标签页展示了工作流中的模型组件的参数信息，展示页面如下图所示。  
-![model-info](/img/aistudio/evaluate/predictions/model-info.png)
+[ ![](/img/aistudio/evaluate/predictions/model-info.png) ](/img/aistudio/evaluate/predictions/model-info.png)
 
 #### 信息选项
 <table>
@@ -76,7 +76,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，连接**“K近邻”（KNN）**、**“决策树”（Tree）**训练模型，后将模型以及数据与“Predictions”控件相连接，查看预测结果。   
-![workflow](/img/aistudio/evaluate/predictions/workflow.png)
+[ ![](/img/aistudio/evaluate/predictions/workflow.png) ](/img/aistudio/evaluate/predictions/workflow.png)
 
 案例中加载 iris 数据集，其余控件使用默认参数。案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/evaluate/predictions/workflow-result.png)
+[ ![](/img/aistudio/evaluate/predictions/workflow-result.png) ](/img/aistudio/evaluate/predictions/workflow-result.png)

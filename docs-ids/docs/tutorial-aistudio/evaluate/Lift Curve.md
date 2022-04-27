@@ -13,10 +13,10 @@
 
 ### 页面介绍
 点击**“Lift曲线”（Lift Curve）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/evaluate/lift-curve/param.png)
+[ ![](/img/aistudio/evaluate/lift-curve/param.png) ](/img/aistudio/evaluate/lift-curve/param.png)
 
 点击**“查看结果”**按钮，查看曲线：
-![visualization](/img/aistudio/evaluate/lift-curve/visualization.png)
+[ ![](/img/aistudio/evaluate/lift-curve/visualization.png) ](/img/aistudio/evaluate/lift-curve/visualization.png)
 
 #### 参数选项
 <table>
@@ -50,7 +50,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，使用**“K近邻”（KNN）**、**“决策树”（Tree）**、**“逻辑回归”（Logistic Regression）**等模型在**“评分和测试”（Test & Score）**控件中进行测试和评估，最后将评估结果在**“Lift曲线”（Lift Curve）**控件中进行展示。   
-![workflow](/img/aistudio/evaluate/lift-curve/workflow.png)
+[ ![](/img/aistudio/evaluate/lift-curve/workflow.png) ](/img/aistudio/evaluate/lift-curve/workflow.png)
 
 案例中加载 titanic 数据集，针对**“K近邻”（KNN）**、**“决策树”（Tree）**、**“逻辑回归”（Logistic Regression）**算法进行模型测试和评估，**“评分和测试”（Test & Score）**显示每个分类器的评估结果。然后根据**“评分和测试”（Test & Score）**的结果绘制升力曲线。在下面的例子中，我们试图看到 titanic 数据集上“幸存者”的预测质量。本例在**“评分和测试”（Test & Score）**控件中比较了三个分类器，并将结果送发到**“Lift曲线”（Lift Curve）**控件以查看其随机模型的性能，从图中可看到决策树是三者中最好的。因此可以将其设置为最优分类的阈值。案例中控件的配置以及执行结果如下图所示。   
-![workflow-result](/img/aistudio/evaluate/lift-curve/workflow-result.png)
+[ ![](/img/aistudio/evaluate/lift-curve/workflow-result.png) ](/img/aistudio/evaluate/lift-curve/workflow-result.png)

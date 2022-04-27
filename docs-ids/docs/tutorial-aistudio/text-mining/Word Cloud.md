@@ -15,10 +15,10 @@
 
 ### 页面介绍
 点击**“词云（Word Cloud）”**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/text-mining/word-cloud/param.png)
+[ ![](/img/aistudio/text-mining/word-cloud/param.png) ](/img/aistudio/text-mining/word-cloud/param.png)
 
 点击**查看词云**按钮，查看绘制的词云：  
-![interaction](/img/aistudio/text-mining/word-cloud/interaction.png)
+[ ![](/img/aistudio/text-mining/word-cloud/interaction.png) ](/img/aistudio/text-mining/word-cloud/interaction.png)
 
 #### 参数选项
 <table>
@@ -52,7 +52,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载语料库（Corpus）”**控件加载文本数据集，之后连接**“词云（Word Cloud）”**控件绘制词云，并选择单词，使用**“查看数据（Data Table）”**控件查看选择的单词信息。    
-![workflow](/img/aistudio/text-mining/word-cloud/workflow.png)
+[ ![](/img/aistudio/text-mining/word-cloud/workflow.png) ](/img/aistudio/text-mining/word-cloud/workflow.png)
 
 案例中加载“andersen”数据集，**“词云（Word Cloud）”**控件中勾选部分单词。案例中控件的配置以及执行结果如下图所示。
-![workflow-result](/img/aistudio/text-mining/word-cloud/workflow-result.png)
+[ ![](/img/aistudio/text-mining/word-cloud/workflow-result.png) ](/img/aistudio/text-mining/word-cloud/workflow-result.png)

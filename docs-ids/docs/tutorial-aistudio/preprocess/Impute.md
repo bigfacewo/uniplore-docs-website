@@ -14,10 +14,10 @@
 
 ### 页面介绍
 点击**“缺失值处理”（Impute）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/preprocess/impute/param.png)
+[ ![](/img/aistudio/preprocess/impute/param.png) ](/img/aistudio/preprocess/impute/param.png)
 
 点击“详细配置”按钮，对输入数据集的属性进行详细配置：
-![interaction](/img/aistudio/preprocess/impute/interaction.png)
+[ ![](/img/aistudio/preprocess/impute/interaction.png) ](/img/aistudio/preprocess/impute/interaction.png)
 
 #### 参数选项
 <table>
@@ -50,7 +50,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，通过**“查看数据”（Data Table）**控件查看加载数据的信息，同时使用**“缺失值处理”（Impute）**控件对数据集中包含缺失值的属性进行处理，之后通过**“查看数据”（Data Table）**控件查看处理后的数据集。   
-![workflow](/img/aistudio/preprocess/impute/workflow.png)
+[ ![](/img/aistudio/preprocess/impute/workflow.png) ](/img/aistudio/preprocess/impute/workflow.png)
 
 案例中加载 bridges 数据集，全局填补方案选择“不填补”，打开详细配置页面，对于【LENGTH】属性指定“随机值”方法填充缺失值。案例中控件的配置以及执行结果如下图所示。      
-![workflow-result](/img/aistudio/preprocess/impute/workflow-result.png)
+[ ![](/img/aistudio/preprocess/impute/workflow-result.png) ](/img/aistudio/preprocess/impute/workflow-result.png)

@@ -13,7 +13,7 @@
 
 ### 页面介绍
 点击**“距离转换”（Distances）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/preprocess/distance-matrix/param.png)
+[ ![](/img/aistudio/preprocess/distance-matrix/param.png) ](/img/aistudio/preprocess/distance-matrix/param.png)
 
 #### 参数选项
 <table>
@@ -47,7 +47,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，然后连接**“距离转换”（Distances）**控件以计算距离矩阵，之后连接**“距离变换”（Distance Matrix）**控件查看距离矩阵。   
-![workflow](/img/aistudio/preprocess/distance-matrix/workflow.png)
+[ ![](/img/aistudio/preprocess/distance-matrix/workflow.png) ](/img/aistudio/preprocess/distance-matrix/workflow.png)
 
 案例中加载 iris 数据集，案例中控件的配置以及执行结果如下图所示。  
-![workflow-result](/img/aistudio/preprocess/distance-matrix/workflow-result.png)
+[ ![](/img/aistudio/preprocess/distance-matrix/workflow-result.png) ](/img/aistudio/preprocess/distance-matrix/workflow-result.png)

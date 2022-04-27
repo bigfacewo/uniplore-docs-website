@@ -33,7 +33,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载语料库（Corpus）”**控件加载文本数据集，之后连接**“情感分析（Sentiment Analysis）”**控件进行情感分析，使用**“查看数据（Data Table）”**控件查看分析结果。  
-![workflow](/img/aistudio/text-mining/sentiment-analysis/workflow.png)
+[ ![](/img/aistudio/text-mining/sentiment-analysis/workflow.png) ](/img/aistudio/text-mining/sentiment-analysis/workflow.png)
 
 案例中加载“andersen”数据集，**“情感分析（Sentiment Analysis）”**控件中，选择Vader方法进行情感分析。案例中控件的配置以及执行结果如下图所示。
 [![](/img/aistudio/text-mining/sentiment-analysis/workflow-result.png)](/img/aistudio/text-mining/sentiment-analysis/workflow-result.png)

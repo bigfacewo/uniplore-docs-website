@@ -12,7 +12,7 @@
 
 ### 页面介绍
 点击**“数据生成”（Random Data）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/io/random-data/param.png)
+[ ![](/img/aistudio/io/random-data/param.png) ](/img/aistudio/io/random-data/param.png)
 
 #### 参数选项
 <table>
@@ -46,7 +46,7 @@
 
 ### 使用案例
 **“数据生成”（Random Data）**控件一般作为一个工作流的开端，生成并加载数据，之后进行相关处理。如下图所示的工作流中 ，使用**“数据生成”（Random Data）**控件生成数据集，连接**“查看数据”（Data Table）**控件查看数据。  
-![workflow](/img/aistudio/io/random-data/workflow.png)
+[ ![](/img/aistudio/io/random-data/workflow.png) ](/img/aistudio/io/random-data/workflow.png)
 
 案例中使用默认配置生成数据集，案例中控件执行结果如下图所示：  
-![workflow-result](/img/aistudio/io/random-data/workflow-result.png)
+[ ![](/img/aistudio/io/random-data/workflow-result.png) ](/img/aistudio/io/random-data/workflow-result.png)

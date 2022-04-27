@@ -14,10 +14,10 @@
 
 ### 页面介绍
 点击**“模型评估”（Model Evaluation）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/time-series/model-evaluation/param.png)
+[ ![](/img/aistudio/time-series/model-evaluation/param.png) ](/img/aistudio/time-series/model-evaluation/param.png)
 
 点击**“查看结果”**按钮，进行模型评估：
-![visualization](/img/aistudio/time-series/model-evaluation/visualization.png)
+[ ![](/img/aistudio/time-series/model-evaluation/visualization.png) ](/img/aistudio/time-series/model-evaluation/visualization.png)
 
 #### 参数选项
 <table>
@@ -44,7 +44,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，连接**“VAR模型”（VAR Model）**控件和**“ARIMA模型”（ARIMA Model）**控件构建时序模型，之后使用**“模型评估”（Model Evaluation）**控件查看预测结果。  
-![workflow](/img/aistudio/time-series/model-evaluation/workflow.png)
+[ ![](/img/aistudio/time-series/model-evaluation/workflow.png) ](/img/aistudio/time-series/model-evaluation/workflow.png)
 
 案例中加载 airpassengers 数据集，其余控件使用默认参数，案例中控件的配置以及执行结果如下图所示。   
-![workflow-result](/img/aistudio/time-series/model-evaluation/workflow-result.png)
+[ ![](/img/aistudio/time-series/model-evaluation/workflow-result.png) ](/img/aistudio/time-series/model-evaluation/workflow-result.png)

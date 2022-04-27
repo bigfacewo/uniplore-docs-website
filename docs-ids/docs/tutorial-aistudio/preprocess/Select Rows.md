@@ -13,10 +13,10 @@
 
 ### 页面介绍
 点击**“条件筛选”（Select Rows）**控件查看参数配置页面，如下图所示：  
-![param](/img/aistudio/preprocess/select-rows/param.png)
+[ ![](/img/aistudio/preprocess/select-rows/param.png) ](/img/aistudio/preprocess/select-rows/param.png)
 
 点击**“打开控件配置”**按钮，弹出条件配置页面，添加过滤条件
-![interaction](/img/aistudio/preprocess/select-rows/interaction.png)
+[ ![](/img/aistudio/preprocess/select-rows/interaction.png) ](/img/aistudio/preprocess/select-rows/interaction.png)
 
 #### 参数选项
 <table>
@@ -65,7 +65,7 @@
 
 ### 使用案例
 在下图所示的案例中，使用**“加载文件”（File）**控件加载数据，通过**“查看数据”（Data Table）**控件查看加载数据的信息，同时使用**“条件筛选”（Select Rows）**控件设置数据过滤条件，之后通过**“查看数据”（Data Table）**控件查看处理后的数据集。   
-![workflow](/img/aistudio/preprocess/select-rows/workflow.png)
+[ ![](/img/aistudio/preprocess/select-rows/workflow.png) ](/img/aistudio/preprocess/select-rows/workflow.png)
 
 案例中采用 iris 数据集，设定了基于属性【iris】 以及属性【sepal length】的两个条件进行数据过滤。案例中控件的配置以及执行结果如下图所示。    
-![workflow-result](/img/aistudio/preprocess/select-rows/workflow-result.png)
+[ ![](/img/aistudio/preprocess/select-rows/workflow-result.png) ](/img/aistudio/preprocess/select-rows/workflow-result.png)
