@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Uniplore',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com', // 部署版本需要调整此处的域名
+  title: 'Uniplore-Idis',
+  tagline: 'uniplire idis platform',
+  url: 'https://uniplore.github.io', // 部署版本需要调整此处的域名
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'uniplore', // Usually your GitHub org/user name.
-  projectName: 'uniplore', // Usually your repo name.
+  projectName: 'uniplore-idis-doc', // Usually your repo name.
 
   //staticDirectories: ['static'],
 
