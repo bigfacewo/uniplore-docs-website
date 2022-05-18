@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Uniplore',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com', // 部署版本需要调整此处的域名
-  baseUrl: '/',
+  url: 'https://uniplore.github.io', // 部署版本需要调整此处的域名
+  baseUrl: '/docs-idis/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'uniplore', // Usually your GitHub org/user name.
-  projectName: 'uniplore', // Usually your repo name.
+  projectName: 'uniplore-docs-website', // Usually your repo name.
 
   //staticDirectories: ['static'],
 
