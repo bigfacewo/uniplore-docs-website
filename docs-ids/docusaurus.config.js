@@ -9,13 +9,13 @@ const config = {
   title: 'Uniplore',
   tagline: 'Dinosaurs are cool',
   url: 'https://uniplore.github.io', // 部署版本需要调整此处的域名
-  baseUrl: '/docs-idis/',
+  baseUrl: '/uniplore-docs-website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'uniplore', // Usually your GitHub org/user name.
   projectName: 'uniplore-docs-website', // Usually your repo name.
-
+  deploymentBranch: 'deploy-pages-idis', // deploy branch name
   //staticDirectories: ['static'],
 
   i18n: {
