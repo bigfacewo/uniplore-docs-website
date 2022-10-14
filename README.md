@@ -32,17 +32,39 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-Using SSH:
-
-```
+**Using SSH:**
+* Linux Or MacOS Bash:
+```bash
 $ USE_SSH=true yarn deploy
 ```
 
-Not using SSH:
+* Windows:
+```bash
+cmd /C "set "USE_SSH=true" && yarn deploy"
+```
 
+* PowerShell:
+```bash
+cmd /C 'set "USE_SSH=true" && yarn deploy'
 ```
-$ GIT_USER=<Your GitHub username> yarn deploy
+
+**Using Username:**
+* Linux Or MacOS Bash:
+```bash
+$ GIT_USER=<GITHUB_USERNAME> yarn deploy
 ```
+
+* Windows:
+```bash
+cmd /C "set "GIT_USER=<GITHUB_USERNAME>" && yarn deploy"
+```
+
+* PowerShell:
+```bash
+cmd /C 'set "GIT_USER=<GITHUB_USERNAME>" && yarn deploy'
+```
+
+
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
 
