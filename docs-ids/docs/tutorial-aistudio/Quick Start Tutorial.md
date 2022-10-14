@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 ## 入门概述
 进入Uniplore iDIS系统页面，打开侧边菜单栏，点击菜单栏内“工作台”中的“人工智能”标签（如下图所示），进入人工智能模块。  
