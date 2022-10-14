@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 ### 组件介绍
 **“自动特征选择”（Select Best N Attributes）**控件能够根据数据自动分析出与【target】属性相关联的一般属性，根据关联程度筛选出指定个数的属性用于分析。
 

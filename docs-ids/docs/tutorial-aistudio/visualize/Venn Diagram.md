@@ -1,3 +1,6 @@
+---
+sidebar_position: 13
+---
 ### 组件介绍
 **“维恩图（Venn Diagram）”**控件用于绘制数据子集的维恩图。
 <hr/>

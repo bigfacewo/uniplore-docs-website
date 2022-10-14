@@ -1,3 +1,6 @@
+---
+sidebar_position: 5
+---
 ### 组件介绍
 **“数据分布（Distributions）”**控件用于显示单个属性值的分布。对于离散属性，“Distributions”组件显示每个属性值出现在数据集中的次数。
 <hr/>

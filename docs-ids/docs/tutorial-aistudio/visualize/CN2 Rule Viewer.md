@@ -1,3 +1,6 @@
+---
+sidebar_position: 16
+---
 ### 组件介绍
 **“CN2规则查看器（CN2 Rule Viewer）”**控件用于查看已训练的CN2模型的规则信息。
 <hr/>

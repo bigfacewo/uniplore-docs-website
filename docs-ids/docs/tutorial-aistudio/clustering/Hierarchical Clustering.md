@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 ### 组件介绍
 **“层次聚类”（Hierarchical Clustering）**控件主要使用层次聚类算法来划分数据。
 

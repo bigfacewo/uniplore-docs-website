@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 ### 组件介绍
 **“ARIMA模型”（ARIMA Model）**控件根据输入数据集，以及配置参数进行构建ARMA，ARIMA或ARIMAX时序预测模型。
 

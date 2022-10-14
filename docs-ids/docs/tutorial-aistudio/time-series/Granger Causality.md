@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 ### 组件介绍
 **“格兰杰因果关系”（Granger Causality）**控件用于衡量时间序列之间相互影响关系。
 

@@ -1,3 +1,6 @@
+---
+sidebar_position: 7
+---
 ### 组件介绍
 **“线性回归（Linear Regression）”**控件为线性回归算法，可选择 L1（LASSO），L2（ridge）或 L1L2（弹性网络）正则化。该模型可以识别预测变量 xi 和响应变量 y 之间的关系。此外，可以指定 Lasso 和 Ridge 正则化参数。Lasso 回归使具有 L1 范数惩罚项的最小二乘损失函数和 L2 范数惩罚项的 Ridge 正则化的惩罚版本最小化。**“线性回归（Linear Regression）”**仅适用于回归任务。
 <hr/>

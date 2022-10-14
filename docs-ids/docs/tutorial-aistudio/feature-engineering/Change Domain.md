@@ -1,3 +1,6 @@
+---
+sidebar_position: 9
+---
 ### 组件介绍
 **“编辑属性类型”（Change Domain）**控件用于用户修改属性类型。
 

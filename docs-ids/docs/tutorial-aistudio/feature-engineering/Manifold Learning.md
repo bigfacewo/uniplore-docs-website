@@ -1,3 +1,6 @@
+---
+sidebar_position: 12
+---
 ### 组件介绍
 **“流行学习”（Manifold Learning）**控件实现了非线性降维。
 

@@ -1,3 +1,6 @@
+---
+sidebar_position: 0
+---
 ### 组件介绍
 **“Python脚本（Python Script）”**控件可以用于给页面或控件添加注释说明。
 <hr/>

@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 ### 组件介绍
 **“K-Means”**控件提供了k-Means 聚类算法对数据进行聚类。
 

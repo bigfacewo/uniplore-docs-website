@@ -1,3 +1,6 @@
+---
+sidebar_position: 12
+---
 ### 组件介绍
 **“保存距离矩阵”（Save Distance Matrix）**控件将距离矩阵保存到本地。
 

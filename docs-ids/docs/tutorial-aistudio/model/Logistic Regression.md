@@ -1,3 +1,6 @@
+---
+sidebar_position: 8
+---
 ### 组件介绍
 **“逻辑回归（Logistic Regression）”**控件用LASSO（L1）或Ridge（L2）正则化的逻辑回归分类算法，从数据中学习逻辑回归模型，它只适用于分类任务。
 

@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 ### 组件介绍
 **“数据库加载”（SQL Table）**控件支持从数据库中读取数据（目前支持 Microsoft SQL Server, PostgreSQL, MySQL, Oracle, MongoDB）。
 

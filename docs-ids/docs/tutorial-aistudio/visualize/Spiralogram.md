@@ -1,3 +1,6 @@
+---
+sidebar_position: 12
+---
 ### 组件介绍
 **“螺旋图（Spiralogram）”**控件用于周期性的可视化时序数据换。
 <hr/>

@@ -1,3 +1,6 @@
+---
+sidebar_position: 0
+---
 ### 组件介绍
 **“文本预处理（Preprocess Text）”**控件用于对文本数据集进行一系列预处理。
 <hr/>

@@ -1,3 +1,6 @@
+---
+sidebar_position: 8
+---
 ### 组件介绍
 **“文本增强（Word Enrichment）”**控件对文本数据集进行词富集分析。“Word Enrichment”显示选中子集 p 值列表。p 值越低，表明所选子集单词是重要的可能性更高。
 <hr/>

@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 ### 组件介绍
 **“数据生成”（Random Data）**控件根据用户配置生成数据集。
 

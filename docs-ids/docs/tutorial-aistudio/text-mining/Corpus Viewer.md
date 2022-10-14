@@ -1,3 +1,6 @@
+---
+sidebar_position: 5
+---
 ### 组件介绍
 **“语料库查看器（Corpus Viewer）”**控件用于查看输入的文本数据集。
 <hr/>

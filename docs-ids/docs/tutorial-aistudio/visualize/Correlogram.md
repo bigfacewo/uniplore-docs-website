@@ -1,3 +1,6 @@
+---
+sidebar_position: 11
+---
 ### 组件介绍
 **“相关图（Correlogram）”**控件用于绘制数据子集的维恩图。
 <hr/>

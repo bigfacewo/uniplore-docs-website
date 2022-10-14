@@ -1,3 +1,6 @@
+---
+sidebar_position: 7
+---
 ### 组件介绍
 **“网络生成器”（Network Generator）**组件能够根据用户设置，构建相应的示例网络图。
 

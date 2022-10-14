@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 ### 组件介绍
 **“网络聚类”（Network Clustering）**控件用于对图进行聚类。
 

@@ -1,3 +1,6 @@
+---
+sidebar_position: 5
+---
 ### 组件介绍
 **“加载距离文件”（Distance File）**控件用于加载已有的距离文件。
 

@@ -1,3 +1,6 @@
+---
+sidebar_position: 0
+---
 ### 组件介绍
 **“查看数据（Data Table）”**控件用于查看输入的数据集。
 <hr/>

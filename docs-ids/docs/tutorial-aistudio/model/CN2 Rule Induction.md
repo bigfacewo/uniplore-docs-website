@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 ### 组件介绍
 **“CN2规则归纳（CN2 Rule Induction）”**控件主要使用层次聚类算法来划分数据。
 

@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 ### 组件介绍
 **“随机森林查看器（Random Forest Viewer）”**控件可用于可视化随机森林模型。
 <hr/>

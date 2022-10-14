@@ -1,3 +1,6 @@
+---
+sidebar_position: 13
+---
 ### 组件介绍
 **“距离变换”（Distance Transformation）**控件用来对距离矩阵进行标准化和转化。
 

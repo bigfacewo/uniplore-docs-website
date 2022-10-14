@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 ### 组件介绍
 **“情感分析（Sentiment Analysis）”**控件用于对输入的文本数据集进行情感分析。
 <hr/>

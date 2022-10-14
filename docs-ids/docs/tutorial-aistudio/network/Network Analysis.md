@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 ### 组件介绍
 **网络分析器（Network Analysis）**控件用于对图数据进行统计分析。
 

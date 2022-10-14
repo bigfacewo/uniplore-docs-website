@@ -1,3 +1,6 @@
+---
+sidebar_position: 7
+---
 ### 组件介绍
 **“特征构建”（Feature Constructor）**控件可计算分类或回归数据集中特征属性的排名信息。
 

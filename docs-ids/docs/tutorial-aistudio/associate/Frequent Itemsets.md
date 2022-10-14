@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 ### 组件介绍
 **“频繁项集”（Frequent Itemsets）** 控件基于支持度度量规则找出数据集中的频繁项集。
 

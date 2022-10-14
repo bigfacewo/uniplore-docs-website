@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 ### 组件介绍
 **“相似度哈希（Similarity Hashing）”**控件用于计算给定语料库的相似哈希。
 <hr/>

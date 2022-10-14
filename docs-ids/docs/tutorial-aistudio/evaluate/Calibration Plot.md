@@ -1,3 +1,6 @@
+---
+sidebar_position: 5
+---
 ### 组件介绍
 **“校准曲线”（Calibration Plot）**控件显示分类器的概率预测和实际类概率之间的匹配。
 

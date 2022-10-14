@@ -1,3 +1,6 @@
+---
+sidebar_position: 8
+---
 ### 组件介绍
 **“季节性调整”（Seasonal Adjustment）**控件将选定时序数据分解为季节性序列、趋势性序列和残差序列。
 

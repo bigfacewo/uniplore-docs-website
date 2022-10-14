@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 ### 组件介绍
 **“Mean Shift”**控件基于核密度估计进行聚类操作。
 

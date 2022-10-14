@@ -1,3 +1,6 @@
+---
+sidebar_position: 4
+---
 ### 组件介绍
 **“主题模型（Topic Modelling）”**控件用于对输入的文本数据集进行情感分析。
 <hr/>

@@ -1,3 +1,6 @@
+---
+sidebar_position: 15
+---
 ### 组件介绍
 **“轮廓图（Silhouette Plot）”**控件用于对分类多变量数据进行对应分析。Correspondence Analysis（CA）根据输入数据集，计算其对应的线性变换。和 PCA 相似，CA 被用来计算离散数据而非连续数据的线性变换。
 <hr/>
