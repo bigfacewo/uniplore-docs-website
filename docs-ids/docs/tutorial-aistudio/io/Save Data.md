@@ -39,5 +39,5 @@
 </table>
 
 ### 使用案例
-在下图所示的案例中，使用**“加载文件”（save-data）**控件加载样例数据集，接着连接**“保存数据”（Save Data）**控件将样例数据集保存为文件。  
+在下图所示的案例中，使用**“加载文件”（File）**控件加载样例数据集，接着连接**“保存数据”（Save Data）**控件将样例数据集保存为文件。  
 [ ![](/img/aistudio/io/save-data/workflow.png) ](/img/aistudio/io/save-data/workflow.png)
