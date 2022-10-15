@@ -24,8 +24,9 @@ const config = {
   //staticDirectories: ['static'],
 
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'zh-cn'],
+    defaultLocale: 'zh-cn',
+    // locales: ['en', 'zh-cn'],
+    locales: ['zh-cn'],
     localeConfigs: {
       en: {
         htmlLang: 'en-GB',
