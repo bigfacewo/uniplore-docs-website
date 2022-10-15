@@ -8,8 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Uniplore Documentation',
   tagline: 'Uniplore iDIS & Labplore',
-  url: 'https://uniplore.github.io', // 部署版本需要调整此处的域名
-  baseUrl: '/uniplore-docs-website/',
+  // github部署
+  //url: 'https://uniplore.github.io', // 部署版本需要调整此处的域名
+  //baseUrl: '/uniplore-docs-website/',
+  
+  // 腾讯云部署
+  url: 'https://doc.uniplore.cn', // 部署版本需要调整此处的域名
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
