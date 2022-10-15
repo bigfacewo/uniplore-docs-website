@@ -59,6 +59,10 @@ $ GIT_USER=<Your GitHub username> yarn deploy
  yarn write-translations -- --locale en
  ```
 
+ > 部署github、阿里云及和腾讯云的区别在于`docusaurus.config.js`中的，详情参考文件中的url及baseUrl的区别，代码中有说明
+
+
+
  ### react代码i18n(多语言环境)
 
 简单使用
