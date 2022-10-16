@@ -146,7 +146,7 @@ const config = {
               },
               {
                 label: 'Official Website',
-                href: 'https://www.uniplore.cn',
+                href: 'http://www.uniplore.cn',
               },
             ],
           },
